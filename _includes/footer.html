@@ -14,18 +14,19 @@
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           <li>
-            <a href="https://github.com/patriciaurdzik">
+            <a href="https://github.com/{{ site.github_username }}" target="_blank">
               <svg class="svg-icon">
                 <use xlink:href="/assets/minima-social-icons.svg#github"></use>
               </svg>
-              <span class="username">patriciaurdzik</span>
+              <span class="username">{{ site.github_username }}</span>
             </a>
           </li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p class="text-center text-muted">Site by <a href="https://hepaestus.com">Hepaestus Consulting</a></p>              
+        <p class="text-center text-muted">Jekyll Site by <a href="https://hepaestus.com" target="_blank">Hepaestus Consulting</a></p>
+        <div class="text-white">{% include git_build_data.html %}</div>
       </div>
     </div>
 
