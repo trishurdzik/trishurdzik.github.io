@@ -15,20 +15,24 @@
               </li>
             {%- endif -%}
           {%- endif -%}              
-        {%- endfor -%}
-
+        {%- endfor -%}        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Projects
-          </a>
+          </a>        
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="{{ "/projects/case-study-boston-bike-trails-app" | relative_url }}">Case Study: Discovery Research for a Boston Bike Trails App</a></li>
+          </ul>          
+          <!--
           <ul class="dropdown-menu">
             {%- for project in site.data.portfolio -%}              
                 {% if project.name %}
                   <li><a class="dropdown-item" href="{{ project.url }}">{{ project.name | escape }}</a></li>
                 {% endif %}          
             {%- endfor -%}            
-          </ul>
+          </ul>          
         </li>
+        -->
       </ul>
     </div>
   </div>

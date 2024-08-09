@@ -21,5 +21,3 @@ Ethnographic Research: In-depth studies that provide a comprehensive understandi
 **Cultural Competency Training**: Workshops and training sessions designed to enhance cultural awareness and sensitivity within organizations.
 
 **Program Evaluation**: Assessing the effectiveness of programs and initiatives to ensure they meet their intended goals.
-
-**Workshops**: XXXX

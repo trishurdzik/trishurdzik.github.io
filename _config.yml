@@ -23,9 +23,13 @@ email: info@trishurdzik.com
 gmail: patriciaurdik@gmail.com
 linkedin: https://www.linkedin.com/in/trishurdzik/
 
-description: I am a UX Researcher with an MS in Applied Anthropology specializing in holistic, human-centered UX research with a focus on adoption of technology, health, and intersectionality. I have conducted a wide range of ethnographic research and quantitative analysis for a variety of organizations, including Fortune 500 companies, colleges, a medical practice conglomerate, a medical research organization, small businesses, and start-ups.
+description: 
+description_old: I am a UX Researcher with an MS in Applied Anthropology specializing in holistic, human-centered UX research with a focus on adoption of technology, health, and intersectionality. I have conducted a wide range of ethnographic research and quantitative analysis for a variety of organizations, including Fortune 500 companies, colleges, a medical practice conglomerate, a medical research organization, small businesses, and start-ups.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: trishurdzik.com  # the base hostname & protocol for your site, e.g. http://example.com
+
+show_excerpts: true
+excerpt_separator: <!--excerpt-->
 
 github_username: patriciaurdzik
 

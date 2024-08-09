@@ -7,17 +7,15 @@ dropdown: false
 position: Senior Researcher
 ---
 
-**Trish Urdzik** is an independent consultant specializing in applied anthropology. 
+I am an independent consultant with an M.S. in Applied Anthropology specializing in holistic, human-centered research with a focus on adoption of technology, health, and intersectionality. I’ve conducted a wide range of ethnographic research and quantitative analysis for a variety of organizations, including Fortune 500 companies, colleges, a medical practice conglomerate, a medical research organization, small businesses, and start-ups. 
 
-With a deep passion for understanding human behavior, cultures, and societies, I leverage anthropological insights to help organizations and communities navigate complex social challenges and achieve their goals. With a passion for understanding the complexities of human behavior, culture, and social interactions, I bring a unique perspective to every project I undertake.
+With a passion for understanding the complexities and intersection of human behavior, culture, and social interactions, I bring a unique perspective to every project I undertake. I leverage insights to help organizations and communities navigate complex challenges and achieve their goals. 
 
 ### My Background
 
 Over the years, I've had the privilege of working on diverse projects that span across various sectors including healthcare, education, business, and community development. For more than a decade, I have worked with a diverse array of clients, from non-profits and government agencies to private corporations and academic institutions. 
 
 My extensive fieldwork and research have taken me to various corners of the globe, allowing me to immerse myself in different cultures and gain firsthand insights into the challenges and opportunities they face. 
-
-[add in education here or elsewhere in the section?]
 
 ### My Approach
 
