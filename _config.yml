@@ -31,7 +31,7 @@ url: trishurdzik.com  # the base hostname & protocol for your site, e.g. http://
 show_excerpts: true
 excerpt_separator: <!--excerpt-->
 
-github_username: patriciaurdzik
+github_username: trishurdzik
 
 # Build settings
 theme: minima
@@ -63,6 +63,7 @@ plugins:
 #
 exclude:
    - README.md
+   - notes
    - .sass-cache/
    - .bundle/config
    - .jekyll-cache/
