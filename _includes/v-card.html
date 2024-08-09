@@ -1,0 +1,19 @@
+<div class="card" style="width: 18rem;">
+  {% if include.card-header != nil %}
+    <div class="card-header">
+      {{ include.card-header }}
+    </div>
+  {% endif %}
+  {% if include.img-src != nil %}
+    <img src="{{ include.img-src }}" class="card-img-top" alt="{{ include.img-alt-txt }}">
+  {% endif %}
+  <div class="card-body">
+    {% if include.card-title != nil %}      
+      <h5 class="card-title">{{ include.card-title }}</h5>
+    {% endif %}
+    <p class="card-text">{{ include.card-content }}</p>
+    {% if include.card-button-href != nil %}
+      <a href="{{ include.card-button-href }}" class="btn btn-primary">{{ include.card-button-txt }}</a>
+    {% endif %}      
+  </div>
+</div>

@@ -1,0 +1,72 @@
+<form action="https://formspree.io/f/{{ site.formspree }}" method="POST" name="sentMessage" id="contactForm" novalidate>
+  <input type="hidden"  name="_subject" value="{{ site.title }} Form Submission!">
+  <input type="text" name="_gotcha" style="display:none" />    
+  <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls">
+      <label for="name">Name</label>
+      <input type="text" name="name" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+      <p class="help-block text-danger"></p>
+      </div>
+  </div>
+  <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls">
+          <label for="_replyto">Email Address</label>
+          <input type="email" name="_replyto" class="form-control" placeholder="Email Address" id="_replyTo" required data-validation-required-message="Please enter your email address.">
+          <p class="help-block text-danger"></p>
+      </div>
+  </div>
+  <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls">
+      <label for="_phone">Phone Number</label>
+      <input type="tel" name="phone" class="form-control" placeholder="123-456-7890" id="phone" required data-validation-required-message="Please enter a valid phone number.">
+      <p class="help-block text-danger"></p>
+      </div>
+  </div>
+
+  <div class="row control-group">
+    <label for="flexCheckDefault">Preferred Method Of Contact</label>
+    <div class="form-check form-check-inline" style="margin-left: 1em;">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <input class="form-check-input" type="checkbox" value="Email" id="flexCheckDefault">
+            <label class="form-check-label" for="flexCheckDefault">
+            Email
+            </label>
+        </div>
+    </div>
+    <div class="form-check form-check-inline" style="margin-left: 1em;">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <input class="form-check-input" type="checkbox" value="Phone" id="flexCheckChecked">
+            <label class="form-check-label" for="flexCheckChecked">
+            Phone
+            </label>
+        </div>
+    </div>
+  </div>
+  <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls mt-1  ">
+          <label for="message">Tell me a little bit about what you are looking for</label>
+          <textarea rows="3" name="question" class="form-control" placeholder="What you are looking for" id="question" required data-validation-required-message="Please enter a question or issue."></textarea>
+          <p class="help-block text-danger"></p>
+      </div>
+  </div>
+  <br>
+  <div id="success"></div>
+  <div class="row">
+      <div class="form-group col-xs-12">
+          <button type="submit" class="btn btn-success btn-lg" onclick="submitForm(e)">Submit</button>
+      </div>
+  </div>
+</form>
+<script type="text/javascript">
+function submitForm(e) {
+  e.preventDefault;
+  console.log("open window");
+  document.sentMessage.target = "https://formspree.io/f/{{ site.formspree }}";
+  console.log("submitting form");
+  document.sentMessage.submit();
+  console.log("form submitted");
+  window.open("/thanks","width=500,height=500,toolbar=0");
+  document.location.href = "/thanks";
+  console.log("redirecting thanks");
+}
+</script>

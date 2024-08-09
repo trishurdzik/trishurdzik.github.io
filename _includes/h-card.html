@@ -1,0 +1,22 @@
+<div class="card mb-3" style="max-width: 540px;">
+  {% if include.card-header != nil %}
+    <div class="card-header">
+      {{ include.card-header }}
+    </div>
+  {% endif %}  
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="{{ include.img-src }}" class="img-fluid rounded" alt="{{ include.img-alt-txt }}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{ include.card-title }}</h5>        
+        <p class="card-text">{{ include.card-content }}</p>
+        {% if include.card-button-href != nil %}
+          <a href="{{ include.card-button-href }}" class="btn btn-primary">{{ include.card-button-txt }}</a>
+        {% endif %}
+        <!-- p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p -->
+      </div>
+    </div>
+  </div>
+</div>
