@@ -3,7 +3,8 @@ layout: post
 title:  "Emotional Challenges in Consultancy: When a Client Disregards Recommendations"
 date:   2024-08-01
 author: "Trish Urdzik"
-categrories: [Consulting]   
+categrories: [Consulting]
+show-sidebar: true
 ---
 
 Working as a consultant can be challenging, especially when you spend a lot of time and effort on a project only to have your client ignore your recommendations. This can lead to feelings of frustration, anger, and even grief. Here’s a detailed, easy-to-understand guide on how to deal with these emotions. For an example from one of my own projects, head over to [Boston Biking Trails App](/projects/case-study-boston-bike-trails-app).

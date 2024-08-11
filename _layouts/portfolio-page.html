@@ -1,26 +1,20 @@
 ---
 layout: page
 ---
-
 <article class="post">
   <header class="post-header">
     <img src="{{ page.images[0] }}" alt="{{ page.name }}" class="rounded float-start m-3"/>  
   </header>
-
   <div class="post-data-content">
     <h2>{{ page.title }}</h2>
     {{ page.description }}    
   </div>
-
   <div class="post-content">
     <h1>Contents</h1>
-    <img src="{{ page.images[1] }}" alt="{{ page.name }}" class="rounded float-start m-3" /> 
+    <img src="{{ page.images[1] }}" alt="{{ page.name }}" class="rounded float-start m-3" />
     {{ page.contents }}
-
-    
     {{ content }}    
   </div>
-
   <div>
     <h1>Summary</h1>
     {{ page.summary }}
