@@ -140,8 +140,8 @@ $_luminance-list: .0008 .001 .0011 .0013 .0015 .0017 .002 .0022 .0025 .0027 .003
   );
 
   @each $name, $value in $rgb {    
-    $foo1: ($value / 255);
-    $foo2: ($foo1 / 12.92);
+    $foo1: calc($value / 255);
+    $foo2: calc($foo1 / 12.92);
     $value: if( $foo1 < .03928, $foo2 , nth($_luminance-list, $value + 1));
     $rgb: map-merge($rgb, ($name: $value));
   }
