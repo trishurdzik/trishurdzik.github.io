@@ -1,8 +1,8 @@
 ---
-layout: base
-title: Services
+layout: default
+title: "<i class='bi bi-tools'> </i>Services"
 permalink: /services
-navbar: true
+nav_display: true
 ---
 
 As an applied anthropologist, I offer a range of consulting services designed to provide actionable insights and strategic solutions. I offer a range of services tailored to meet the unique needs of my clients, including:

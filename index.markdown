@@ -1,11 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
-show-title-heading: false
-layout: home
-navbar: false
-dropdown: false
+layout: default
+image: /assets/images/trish-urdzik-montage-01.png
+header_title: "Trish Urdzik - Senior Researcher"
+nav_display: false
+date: 2024-10-06 07:00:00 -0400
 ---
 
 Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:

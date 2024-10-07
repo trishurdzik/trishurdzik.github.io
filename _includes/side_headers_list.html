@@ -1,0 +1,56 @@
+{% if page.sidebar_headers != false -%}
+    <script>
+        // <!-- Jquery Ready statement -->
+        // Create a sidebar with links to headers.
+        // Add this list to the sidebar in the .contents-list list
+        var output = "";  
+        var count = 0;  
+        $(document).ready(function() {
+            console.log("Document Ready 1");
+            $("h2,h3,h4").each(function() {                
+                if ( $(this).attr('id') != "contents-col" ) {  
+                    if ( $(this).text().trim() != "") {                              
+                        var change = "<li class='my-2'><a href='#" + $(this).text().trim() + "'>" + $(this).text().trim() + "</a></li>";
+                        console.log("Adding a header to sidebar : " + $(this).text().trim() );
+                        output += change;
+                        count++;
+                    }
+                }            
+                
+            });
+            // Add a back to top link if there are more than 3 headers
+            {% if site.show_top_link != false or page.show_top_link != false -%}                 
+                var top = "<li class='my-2'><a class='contents-list-anchor' href='#top'>Back to Top</a></li>";
+                output = output + top;
+            {% endif -%}            
+
+            if ( count >= 3 ) {               
+                console.log("Showing the side headers");
+                $("#contents-list").html(output);
+            } else {
+                console.log("Hiding the side headers");
+                $("#contents-headers-col").hide();
+            }
+        });
+
+        // <!-- Jquery Ready statement -->
+        // Wrap headers in anchor tags for linking and scrolling
+        $(document).ready(function() {
+            console.log("Document Ready 2");
+            $("h2,h3,h4").each(function() {
+                if ( $(this).attr('id') != "contents-col" ) {                
+                    // Using jquery edit the headers found to include an anchor tag
+                    $(this).wrapInner('<a class="wrap heading-anchor" name="' + $(this).text().trim() + '">');
+                }            
+            });
+
+        });
+    </script>
+
+    <div class="col-md-3" id="contents-headers-col">    
+        <div id="contents-list-div">
+            <h4 id="contents-col" class="mt-0 pl-2 pt-0">Contents:</h4>
+            <ul id="contents-list" class="m-0 pl-2"></ul>
+        </div>
+    </div>
+{% endif -%}

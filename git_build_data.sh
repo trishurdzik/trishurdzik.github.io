@@ -6,12 +6,17 @@
 
 # setup variables
 HOMEDIR=`pwd`
+
+# Run the Generate Tags File script in the _posts_tags directory
+cd _posts_tags
+./_gen_post_tags_files.sh
+cd $HOMEDIR
+
 OUTPUT_FILE="git_build_data.html"
 OUTPUT_DIRECTORY="_includes"
 
 WRAP_START="<div class=\"git_build_data\">"
 WRAP_END="</div>"
-
 
 # create output directory if it does not exist
 if [ ! -d ${OUTPUT_DIRECTORY} ]; then

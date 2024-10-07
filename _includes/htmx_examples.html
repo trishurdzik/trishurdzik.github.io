@@ -1,0 +1,43 @@
+
+<div class="row">
+  <div class="col-md-5">
+    <div class="bg-secondary m-3 p-3"> 
+      <h4 class="my-3">HTMX Form Example</h4>
+      <form class="bg-secondary" id="form1" 
+          hx-post="https://us-east5-hepaestus.cloudfunctions.net/return--a-card--with-data" 
+          hx-trigger="submit"
+          hx-header='{"Content-Type": "application/json charset=utf-8"}'
+          hx-ext="json-enc"
+          hx-request='{"timeout": 5000}'
+          hx-target="#currency-div">
+        <input type="hidden" name="url" value="https://latest.currency-api.pages.dev/v1/currencies/usd.json" />
+        <input type="hidden" name="card_type" value="pre" />
+        <div class="row">
+          <div class="col-md-3">
+            <label class="form-label" for="path">Currency</label>
+          </div>
+          <div class="col">
+            <select  class="form-control" name="path">
+              <option selected value="$.usd.jpy">Yen</option>
+              <option value="$.usd.eur">Euro</option>
+              <option value="$.usd.btc">Bitcoin</option>
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-3">
+          </div>
+          <div class="col">
+            <button type="submit" class="btn-sm btn-primary">Per US Dollar</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="col bg-info-subtle">
+    <h3>HTMX Update Response</h3>
+    <pre id="currency-div"></pre>
+  </div>  
+</div>
+
+

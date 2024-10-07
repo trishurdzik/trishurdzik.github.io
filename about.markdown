@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about
-navbar: true
-dropdown: false
-position: Senior Researcher
+title: <i class='bi bi-file-earmark-person'></i> About
+permalink: /about/
+image: "https://placeholder.co/900x300/dddddd/ffffff/?text=About_Trish"
+header_title: "About Trish Urdzik"
+image_alt: "Placeholder image"
+show_top_link: true
 ---
 
 I am an independent consultant with an M.S. in Applied Anthropology specializing in holistic, human-centered research with a focus on adoption of technology, health, and intersectionality. I’ve conducted a wide range of ethnographic research and quantitative analysis for a variety of organizations, including Fortune 500 companies, colleges, a medical practice conglomerate, a medical research organization, small businesses, and start-ups. 

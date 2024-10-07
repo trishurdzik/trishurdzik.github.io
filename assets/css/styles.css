@@ -1,0 +1,55 @@
+
+
+a.heading-anchor {
+  text-decoration: none;
+  color: #000;
+}
+
+#contents-list-div {
+  position: sticky;
+  padding: 10px;
+  overflow: auto;
+  background-color: #f1f1f1;
+}
+
+#contents-list {
+  list-style-type: none;  
+}
+
+@media screen and (max-width: 800px) and (orientation: portait) {
+  #header_title {
+    font-size: 50%;
+  }
+
+  #contents-list-div {
+    position: inherit;
+  }
+}
+
+.footer-nav .nav-link {
+  padding: 0;
+  margin: 0;
+}
+
+
+pre.highlight {
+  margin: 5px 5px 20px 5px;
+  padding: 5px 0 0 15px;
+  background-color: #f1f1f1 !important;
+  border-radius: 20px;
+}
+
+code {
+  line-height: 175% !important;
+}
+ code span.na {
+  font-weight: bold !important;
+ }
+
+.task-list {
+  list-style-type: none;
+  padding-left: 3px;
+}
+input.task-list-item-checkbox {
+  margin-right: 7px;
+ }

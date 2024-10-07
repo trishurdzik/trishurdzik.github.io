@@ -1,0 +1,49 @@
+---
+layout: null
+title: Sitemap
+permalink: /sitemap.xml
+date: 2024-09-14 17:15:00 +0900
+nav_display: false
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for page in site.pages -%}
+        {% if page.url contains '/assets/' -%}
+        {% elsif page.sitemap != false -%}
+        <url>
+            <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
+            <lastmod>
+            {%- if page.last_modified_at -%}
+                {{ page.last_modified_at | date: site.iso_date_format }}
+            {%- elsif page.date -%}
+                {{ page.date | date: site.iso_date_format }}
+            {%- elsif site.date -%}
+                {{ site.date | date: site.iso_date_format }}
+            {%- else -%}
+                {{ "now" | date: site.iso_date_format }}                
+            {%- endif -%}
+            </lastmod>
+        </url>
+        {% endif -%}
+    {% endfor -%}
+    {% for post in site.posts -%}
+        {% if post.url contains '/assets/' -%}
+        {% elsif post.sitemap != false -%}
+        <url>
+            <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
+            <lastmod>
+            {%- if post.last_modified_at -%}
+                {{ post.last_modified_at | date: site.iso_date_format }}
+            {%- elsif post.date -%}
+                {{ post.date | date: site.iso_date_format }}
+            {%- elsif site.date -%}
+                {{ site.date | date: site.iso_date_format }}
+            {%- else -%}
+                {{ "now" | date: site.iso_date_format }}                
+            {%- endif -%}
+            </lastmod>
+        </url>
+        {% endif -%}
+    {% endfor -%}
+</urlset>

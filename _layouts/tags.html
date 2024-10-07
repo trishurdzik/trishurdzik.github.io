@@ -1,0 +1,36 @@
+---
+layout: post
+sidebar_headers: false
+---
+<article class="post mb-5">
+    <div class="post-content">
+        {{ content }}
+        {% assign tag = page.title | sluggify %}
+        {% assign tag_posts = site.tags[tag] %}
+        <ul class="post-list">
+            {% for post in tag_posts %}
+            <li>
+                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                <span class="post-meta">
+                    {{ post.date | date: date_format }}
+                    {%- if post.tags -%}
+                      <span class="tags" style="display: none;">
+                        {% for tag in post.tags %}            
+                            {% if tag == page.title %}
+                            {% else %}
+                            <a href="{% include tag_url.html tag=tag %}">#{{ tag }}</a> 
+                            {% endif %}
+                        {% endfor %}
+                      </span>
+                    {%- endif -%}
+                </span>
+
+                <h4>
+                    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                </h4>
+            </li>
+            {% endfor %}
+        </ul>
+        Browse more <a href="{{ '/tags' | relative_url }}"><i class="bi bi-tags"></i> Tags</a>.
+    </div>
+</article>

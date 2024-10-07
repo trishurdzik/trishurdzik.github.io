@@ -1,35 +1,54 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">Patricia Urdzik | UX Researcher</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">Patricia Urdzik | UX Researcher</li><li><a class="u-email" href="mailto:info@trishurdzik.com">info@trishurdzik.com</a></li></ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          <li>
-            <a href="https://github.com/{{ site.github_username }}" target="_blank">
-              <svg class="svg-icon">
-                <use xlink:href="/assets/minima-social-icons.svg#github"></use>
-              </svg>
-              <span class="username">{{ site.github_username }}</span>
+<footer class="footer mt-auto p-3 bg-light h-card z-100">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <div class="container py-3">
+    <div class="row">
+      <div class="col">
+        <h6>Author/Site info</h6>
+        {%- if site.author %}
+        <ul class="contact-list list-unstyled">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}        
+          {%- endif %}                
+          <li class="sitemap">
+            <i class="bi bi-diagram-3"></i>
+            <a class="" href="{{ '/sitemap.xml' | relative_url }}">            
+              <span>Sitemap</span>
+            </a>
+          </li>
+          <li class="feed-subscribe">
+            <a class="btn btn-orange text-white" href="{{ 'feed.xml' | relative_url }}">
+              <i class="bi bi-rss-fill"></i>
+              <span>Subscribe</span>
             </a>
           </li>
         </ul>
       </div>
-
-      <div class="footer-col footer-col-3">
-        <p class="text-center text-muted">Jekyll Site by <a href="https://hepaestus.com" target="_blank">Hepaestus Consulting</a></p>
-        <div class="text-white">{% include git_build_data.html %}</div>
+      <div class="col px-2">
+        <h6>Navigation</h6>
+        <ul class="footer-nav" style="list-style-type: none; padding: 0; margin: 5;" >
+          {% include nav-list.html -%}
+        </ul>
+      </div>
+      <div class="col">
+        <h6>About</h6>
+        <p>{{ site.description | escape }}</p>
       </div>
     </div>
-
+    {%- if site.bootstrap.social_links -%}
+    <div class="row py-3">
+      <div class="col ">
+        {%- include social.html -%}
+        <div class="text-center">Site by <a href="https://hepaestus.com" target="_blank">Hepaestus Consulting</a></div>
+        <div class="text-center text-muted">
+          {% include git_build_data.html %}    
+        </div>
+      </div>
+    </div>
+    {%- endif -%}
+    
   </div>
-
 </footer>

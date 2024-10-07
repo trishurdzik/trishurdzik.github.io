@@ -1,0 +1,8 @@
+{%- capture url -%}
+    {% for pt in site.posts_tags %}
+        {% if pt.title == include.tag %}
+            {{ site.baseurl | append: pt.url }}
+        {% endif %}
+    {% endfor %}
+{%- endcapture -%}
+{{ url | strip | remove_first: site.baseurl | default: "/tags/" | absolute_url }}

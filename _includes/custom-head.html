@@ -1,0 +1,27 @@
+{% comment %}
+  Placeholder to allow defining custom head, in principle, you can add anything here, e.g. favicons:
+  1. Head over to https://realfavicongenerator.net/ to add your own favicons.
+  2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
+{% endcomment %}
+
+{% if site.search_enabled -%}
+<script src="{{ '/assets/js/lunr.js' | relative_url }}" type="text/JavaScript"></script>
+<script src="{{ '/assets/js/lunr_search.js' | relative_url }}" type="text/JavaScript"></script>
+<script src="{{ '/assets/js/documents.js' | relative_url }}" type="text/JavaScript"></script>
+{% endif -%}
+
+<!-- JQuery fro the heading sidebar -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+{% if site.tags_cloud == true %}
+<link rel="stylesheet" type="text/css" href="{{ '/assets/css/jcloud.css' | relative_url }}">
+<script src="//cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.4/jqcloud.min.js" integrity="sha512-kKFIFIYZ70cs9AxqGnLqwhm1t0DI3vwiIGGe2r0zulHVgpDYvW3QZuIqsFzgbqmEsq1no2YCBJ7O99t8kmVu2A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+{% endif -%}
+
+
+{% if site.htmx_enabled or page.htmx_enabled %}
+<meta name="htmx-config" content='{"selfRequestsOnly": false}' />
+<meta name="htmx-config" content='{"referrerpolicy": "origin"}' />
+<script src="https://unpkg.com/htmx.org@2.0.2" integrity="sha384-Y7hw+L/jvKeWIRRkqWYfPcvVxHzVzn5REgzbawhxAuQGwX1XWe70vji+VSeHOThJ" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/htmx.org/dist/ext/json-enc.js"></script>
+{% endif -%}

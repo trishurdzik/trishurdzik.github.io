@@ -1,0 +1,32 @@
+{% if site.search_enabled -%}
+<script>
+    function searchScript(event) {
+        event.preventDefault();
+        console.log("SEARCH SCRIPT");   
+        var searchValue = document.getElementById('lunrsearch').value;    
+        const myModalAlternative = new bootstrap.Modal('#searchModal1', {});
+        lunr_search(document.getElementById('lunrsearch').value, event);
+        myModalAlternative.show();
+        console.log("SEARCH SCRIPT2");   
+    }
+</script>
+
+<form 
+    class="d-flex"
+    role="search" 
+    onSubmit="searchScript(event);">
+    <input id="lunrsearch" 
+      type="search" 
+      class="form-control me-2"
+      name="value" 
+      maxlength="255" 
+      value="" 
+      placeholder="Search"
+      style="width: 10em;"
+      />
+    <button class="btn btn-outline-success"      
+      type="submit">
+        Search
+    </button>
+</form>
+{% endif -%}
