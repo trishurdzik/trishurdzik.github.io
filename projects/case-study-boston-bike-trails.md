@@ -3,6 +3,7 @@ layout: page
 title: "Case Study: Discovery Research for a Boston Bike Trails App"
 permalink: /projects/case-study-boston-bike-trails-app
 show-sidebar: true
+nav_display: false
 ---
 
 This case study highlights the critical role of market research in guiding strategic decisions in app development and the potential consequences of not heeding expert recommendations. Read to end for my reflections.

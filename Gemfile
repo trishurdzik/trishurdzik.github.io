@@ -25,5 +25,5 @@ source "https://rubygems.org"
   gem 'octokit', '~>6.1.1'
   gem 'uri', '~>0.13.1'
   gem 'ffi', '~>1.17'
-
+  gem 'sassc', '~>2.4.0'
   gemspec
