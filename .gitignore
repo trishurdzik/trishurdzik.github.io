@@ -8,5 +8,6 @@ Gemfile~
 node_modules/
 package-lock.json
 packkage.json
-assets/image/*.kra~
-assets/image/*.kra
+./assets/images/*.kra~
+./assets/images/*.kra
+./assets/images/*.*~
