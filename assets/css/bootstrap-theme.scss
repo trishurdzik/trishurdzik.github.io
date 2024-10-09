@@ -3,7 +3,7 @@
 @import "assets/stylesheets/_bootstrap";
 
 $theme-colors: (
-  "primary-":    $primary,
+  "primary":    $primary,
   "secondary":  $secondary,
   "success":    $success,
   "info":       $info,
@@ -29,7 +29,7 @@ $container-max-widths: (
   lg: 960px
 );
 
-@import "custom-variables";
-/* @import "_bootstrap-grid"; */
+@import "assets/stylesheets/_bootstrap-grid";
+@import "assets/stylesheets/_bootstrap-reboot";
+@import "_custom-variables";
 @import "custom-styles";
-/* @import "bootstrap-reboot" */
