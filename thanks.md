@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thank You
-navbar: false
+nav_display: false
 ---
 ## Thank You for your message!
 ## I will get back to you as soon as possible.

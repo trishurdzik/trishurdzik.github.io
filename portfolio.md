@@ -3,6 +3,7 @@ layout: page
 dropdown: true
 navbar: false
 title: Portfolio
+nav_display: false
 ---
 <article>
   {% for project in site.data.portfolio %}
