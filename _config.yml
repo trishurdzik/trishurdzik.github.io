@@ -75,7 +75,7 @@ defaults:
 sass:
   load_paths:
     - _sass
-    - vendor/bundle/ruby/3.0.0/gems/bootstrap-5.3.3 # /assets/stylesheets
+    - vendor/bundle/ruby/3.0.0/gems/bootstrap-5.3.3/
 
 # Build settings
 # theme: 
