@@ -12,6 +12,7 @@ source "https://rubygems.org"
   gem 'i18n', '~>1.14.6'
   gem 'jekyll', '>= 4.0', '<5.0'
   gem 'jekyll-sass-converter', '~>3.0.0'
+  gem 'jekyll-theme-primer', '~>0.6.0'
   gem 'json', '~>2.7.2'
   gem 'logger', '~>1.6.1'
   gem 'mercenary', '~>0.4.0'
