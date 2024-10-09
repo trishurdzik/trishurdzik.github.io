@@ -2,7 +2,7 @@
 layout: page
 title: <i class='bi bi-file-earmark-person'></i> About
 permalink: /about/
-image: "https://placeholder.co/900x300/dddddd/ffffff/?text=About_Trish"
+image: "/assets/images/trish-urdzik-montage-small-01.png"
 header_title: "About Trish Urdzik"
 image_alt: "Placeholder image"
 show_top_link: true

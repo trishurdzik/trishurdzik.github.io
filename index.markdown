@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-image: /assets/images/trish-urdzik-montage-01.png
+image: https://placehold.co/900x300/DDDDDD/FFFFFF/png?text=Trish
 header_title: "Trish Urdzik - Senior Researcher"
 nav_display: false
 date: 2024-10-06 07:00:00 -0400

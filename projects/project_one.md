@@ -13,4 +13,3 @@ images:
   - /assets/images/Arm_Straps_of_Harness.jpg
 nav_display: false
 ---
-CUSTOM TEXT GOES HERE

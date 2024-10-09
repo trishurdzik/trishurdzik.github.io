@@ -3,7 +3,7 @@ layout: default
 title: "<i class='bi bi-tags'></i> Tags"
 header_title: Tags Cloud
 exclude_search: true
-nav_display: true
+nav_display: false
 permalink: /tags/
 sidebar_headers: false
 ---
