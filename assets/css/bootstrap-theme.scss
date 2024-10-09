@@ -1,6 +1,6 @@
 ---
 ---
-@import "assets/stylesheets/_bootstrap";
+@import "_bootstrap";
 
 $theme-colors: (
   "primary":    $primary,
@@ -29,8 +29,8 @@ $container-max-widths: (
   lg: 960px
 );
 
-@import "assets/stylesheets/_bootstrap-grid";
-@import "assets/stylesheets/_bootstrap-reboot";
+@import "_bootstrap-grid";
+@import "_bootstrap-reboot";
 
 /* 
   @import "custom-variables";
