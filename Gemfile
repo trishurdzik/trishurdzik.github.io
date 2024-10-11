@@ -24,6 +24,7 @@ source "https://rubygems.org"
   gem 'rouge', '~>4.4.0'
   gem 'sass-embedded', '~>1.69.5'
   gem 'sassc', '~>2.4.0'
+  gem 'sprockets-rails', '~>2.3.2'
   gem 'terminal-table', '~>3.0.2'
   gem 'unicode-display_width', '~>2.6.0'
   gem 'uri', '~>0.13.1'
