@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-@import '{{ site.baseurl }}/bootstrap';
+@import '{{ site.baseurl | default: "" }}bootstrap';
 
 $theme-colors: (
   "primary":    $primary,
