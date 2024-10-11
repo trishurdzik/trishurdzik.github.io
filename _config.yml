@@ -73,8 +73,8 @@ defaults:
       layout: tags
 
 sass:
+  sass_dir: _sass
   load_paths:
-    - _sass
     - vendor/bundle/ruby/3.0.0/gems/bootstrap-5.3.3/assets/stylesheets
     - vendor/bundle/ruby/3.0.0/gems/bootstrap-5.3.3/assets/stylesheets/bootstrap
     - vendor/bundle/ruby/3.0.0/gems/jekyll-theme-primer-0.6.0/_sass
