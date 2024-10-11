@@ -2,12 +2,13 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.vscode
 vendor/bundle
 .Gemfile.*~
 Gemfile~
 node_modules/
 package-lock.json
-packkage.json
+package.json
 ./assets/images/*.kra~
 ./assets/images/*.kra
 ./assets/images/*.*~
