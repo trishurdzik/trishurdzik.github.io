@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     jekyll-bootstrap-theme (1.1.0)
-      jekyll (>= 4.0, < 5.0)
+      jekyll
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
 
@@ -134,11 +134,11 @@ DEPENDENCIES
   ffi (~> 1.17)
   google-protobuf (~> 3.25.5)
   i18n (~> 1.14.6)
-  jekyll (>= 4.0, < 5.0)
   jekyll-bootstrap-theme!
   jekyll-sass-converter (~> 3.0.0)
   jekyll-theme-primer (~> 0.6.0)
   json (~> 2.7.2)
+  kramdown
   logger (~> 1.6.1)
   mercenary (~> 0.4.0)
   octokit (~> 6.1.1)

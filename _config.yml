@@ -82,12 +82,10 @@ sass:
     
 
 # Build settings
-# theme: 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sass-converter
-  
   
 include: 
   - /_posts_tags/_site_tags_missing.txt
