@@ -92,6 +92,7 @@ include:
   - /_posts_tags/_site_tags_missing.txt
   - /assets/js/documents.js
   - /assets/css/styles.css
+  - _sass/bootstrap-theme.scss
 
 # Exclude from processing.
 exclude:
