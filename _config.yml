@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until next element
   quantitative analysis for a variety of organizations, including Fortune 500 
   companies, colleges, a medical practice conglomerate, a medical research 
   organization, small businesses, and start-ups.
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 excerpts:
   # Displays or hides post excerpts from home layout post listing.
@@ -73,11 +73,10 @@ defaults:
       layout: tags
 
 theme: jekyll-bootstrap-theme # MY THEME
-safe: true
+safe: false
 
 sass:
   sass_dir: _sass
-  style: compressed
   load_paths:
     - node_modules
     - vendor/bundle/ruby/3.0.0/gems/bootstrap-5.3.3/assets/stylesheets
