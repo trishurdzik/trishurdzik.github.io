@@ -92,10 +92,11 @@ plugins:
   - jekyll-sass-converter
   
 include: 
-  - /_posts_tags/_site_tags_missing.txt
-  - /assets/js/documents.js
-  - /assets/css/styles.css
+  - _posts_tags/_site_tags_missing.txt
+  - assets/js/documents.js
+  - assets/css/styles.css
   - _sass/bootstrap-theme.scss
+  - vendor/bundle/ruby/3.0.0/gems/bootstrap-5.3.3/assets
 
 # Exclude from processing.
 exclude:
