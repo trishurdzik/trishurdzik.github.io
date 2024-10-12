@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until next element
   quantitative analysis for a variety of organizations, including Fortune 500 
   companies, colleges, a medical practice conglomerate, a medical research 
   organization, small businesses, and start-ups.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 excerpts:
   # Displays or hides post excerpts from home layout post listing.
