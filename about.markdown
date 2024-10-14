@@ -1,10 +1,9 @@
 ---
 layout: page
-title: <i class='bi bi-file-earmark-person'></i> About
+title: About
 permalink: /about/
 image: "/assets/images/trish-urdzik-montage-small-01.png"
-header_title: "About Trish Urdzik"
-image_alt: "Placeholder image"
+image_alt: "Trish and Friends"
 show_top_link: true
 ---
 

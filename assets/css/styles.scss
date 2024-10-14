@@ -58,3 +58,33 @@ code {
 input.task-list-item-checkbox {
   margin-right: 7px;
  }
+
+#contents-list li {
+  list-style-type: none;
+}
+
+a.contents-list-anchor {  
+  text-decoration: none;
+}
+
+header, body, footer, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button, label, select, textarea {
+  color: white !important;
+}
+
+header, footer, #contents-list-div, div.modal-content{
+  background: #008885 !important;
+}
+
+body {
+   background: linear-gradient(to right, #61aa83, #008885, #00637e, #003d66, #1a173f) !important;
+}
+
+div.git_build_data, div.git_build_data span {
+  color: {{ site.git_build_data_color }} !important;
+}
+
+media print {
+  header, body, footer, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button, label, select, textarea {
+    color: black !important;
+  }
+}
