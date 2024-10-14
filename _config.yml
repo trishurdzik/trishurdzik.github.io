@@ -30,7 +30,6 @@ show_top_link: true
 formspree_id: 'your_formspree_id'
 htmx_enabled: false
 
-
 # Theme configuration
 bootstrap:
   # Theme date format
