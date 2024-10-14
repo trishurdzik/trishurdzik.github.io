@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "<i class='bi bi-tools'> </i>Services"
+image: /assets/images/services_image_01.jpg
 permalink: /services
 nav_display: true
 ---

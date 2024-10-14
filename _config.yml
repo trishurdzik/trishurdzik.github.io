@@ -73,7 +73,6 @@ defaults:
       layout: tags
 
 theme: jekyll-bootstrap-theme # MY THEME
-safe: false
 
 sass:
   sass_dir: _sass
