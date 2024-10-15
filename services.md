@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "<i class='bi bi-tools'> </i>Services"
 image: /assets/images/services_image_01.jpg
 permalink: /services
