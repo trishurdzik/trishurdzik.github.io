@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<i class='bi bi-pen'></i> Blog"
+title: "Blog"
 image: /assets/images/blog_image_01.jpg
 permalink: /blog/
 ---

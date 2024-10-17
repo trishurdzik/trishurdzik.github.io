@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: "<i class='bi bi-person-rolodex'></i> Contact"
+title: "Contact"
 image: /assets/images/contact_image_01.jpg
 permalink: /contact/
 ---
