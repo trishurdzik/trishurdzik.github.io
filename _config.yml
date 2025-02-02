@@ -2,13 +2,7 @@ title: Trish Urdzik - UX/UI Researcher
 author:
   name: 'Trish Urdzik'
   email: 'trish@trishurdzik.com'
-description: >- # this means to ignore newlines until next element
-  I am a UX Researcher with an MS in Applied Anthropology specializing in holistic,
-  human-centered UX research with a focus on adoption of technology, health, and 
-  intersectionality. I have conducted a wide range of ethnographic research and
-  quantitative analysis for a variety of organizations, including Fortune 500 
-  companies, colleges, a medical practice conglomerate, a medical research 
-  organization, small businesses, and start-ups.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 excerpts:
