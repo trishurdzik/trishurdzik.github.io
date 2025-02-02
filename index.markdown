@@ -2,7 +2,7 @@
 title: Home
 layout: default
 image: /assets/images/index_image_01.jpg
-header_title: "Trish Urdzik - Senior Researcher"
+header_title: "Trish Urdzik"
 nav_display: false
 date: 2024-10-06 07:00:00 -0400
 ---
