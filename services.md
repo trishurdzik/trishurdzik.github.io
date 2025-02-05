@@ -6,19 +6,26 @@ permalink: /services
 nav_display: true
 ---
 
-As an applied anthropologist, I offer a range of consulting services designed to provide actionable insights and strategic solutions. I offer a range of services tailored to meet the unique needs of my clients, including:
-Ethnographic Research: In-depth studies that provide a comprehensive understanding of cultural practices and social dynamics. Conducting in-depth qualitative research to understand the lived experiences and perspectives of individuals within their cultural contexts.
+Boot camps and certificate programs produce individuals who are eager to apply their newly-learned foundational knowledge in various aspects of technology or cybver security practices. Understanding the nuances of human behavior, however, take years of experience working with organizations of all sizes, business cultures, and industries. I offer a range of consulting services designed to identify gaps of knowledge and practices that expose vulnerabilities, including:
 
-**User Experience (UX) Research**: Applying anthropological methods to improve product design and user interaction.
+**Remote Work Cybersecurity Training**:
 
-**Community Engagement**: Facilitating meaningful dialogue and collaboration among stakeholders to build stronger, more resilient communities.
+**Human-centered Security Policy Development**
 
-**Community Needs Assessment**: Identifying and analyzing the needs of specific communities to inform policy and program development.
+**Technology Adoption and Change Management Strategy**
 
-**Cultural Analysis**: Analyzing cultural trends and practices to inform product development, marketing strategies, and organizational policies.
+**Privacy and Ethical Data Use Training**
 
-**Training and Workshops**: Providing customized training sessions to enhance cultural competence and sensitivity within organizations.
+**Competitive Analysis** 
 
-**Cultural Competency Training**: Workshops and training sessions designed to enhance cultural awareness and sensitivity within organizations.
+**Behavioral Risk Analysis**
 
-**Program Evaluation**: Assessing the effectiveness of programs and initiatives to ensure they meet their intended goals.
+**Secure Digital Transformtion Consulting** 
+
+**Benchmarking**
+
+**Workshops**
+
+**Creation and/or Implementation of User Experience (UX) Research Guidelines**: 
+
+**Democratization of User Experience (UX) Research for Non-researchers**
