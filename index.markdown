@@ -1,10 +1,10 @@
 ---
-title: Home
 layout: default
+title: "Home"
 image: /assets/images/index_image_01.jpg
+permalink: "/"
+nav_display: true
 header_title: "Trish Urdzik"
-nav_display: false
-date: 2024-10-06 07:00:00 -0400
 ---
 
 Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:

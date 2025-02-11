@@ -32,7 +32,10 @@ bootstrap:
   # If you want to link only specific pages in your header, uncomment
   # this and add the path to the page *files* in order as they should show up
   header_pages:
-   - about.md
+   - index.markdown
+   - services.markdown
+   - contact.markdown
+   - about.markdown
 
   # generate social links in footer
   social_links:
