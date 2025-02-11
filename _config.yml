@@ -12,7 +12,7 @@ excerpts:
   # You can also leave this false, and manually control excerpt length:
   # https://jekyllrb.com/docs/posts/#post-excerpts
   truncate: false    
-date: 2024-10-06 07:00:00 -0400
+date: 2025-02-10 17:00:00 -0500
 date_format: "%y-%m-%d %H:%M:%S %z"
 iso_date_format: "%Y-%m-%dT%H:%M:%S%:z"
 search_enabled: true
@@ -33,7 +33,7 @@ bootstrap:
   # this and add the path to the page *files* in order as they should show up
   header_pages:
    - index.markdown
-   - services.markdown
+   - solutions.markdown
    - contact.markdown
    - about.markdown
 

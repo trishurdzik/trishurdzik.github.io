@@ -91,6 +91,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Honk", serif;
 }
 
+.card { 
+  background-color: #91989c !important; 
+}
 
 header, body, footer, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button, label, select, textarea {
   color: white !important;
@@ -103,6 +106,15 @@ header, footer, #contents-list-div, div.modal-content{
 body {
    background: #491e5d !important;
 }
+
+
+.solutions-card {
+  border-radius: 10px 10px;
+  margin: 10px;
+  width: 18rem;
+}
+
+
 
 div.git_build_data, div.git_build_data span {
   color: {{ site.git_build_data_color }} !important;
