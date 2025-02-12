@@ -12,7 +12,7 @@ nav_display: true
   card_type="solutions-card" 
   header_txt="1 on 1 Sessions" 
   title_txt="Why?"
-  card_txt="One-to-one chats are a great for a number of reasons. </br> Want to ensure your team members are internalizing what they're learning in the seminars, workshops, or training series? On-on-one sessions can be added to any solution and are customized based on what you or your team members need to get out of it."
+  card_txt="One-to-one chats are a great for a number of reasons. </br> Are you unsure of the direction you need to go? Do you need one of the solutions you see offered but in a more intimate or casual setting? One-on-ones are perfect for that! Maybe you you'd like to dive into a topic but you don't see it listed - easy-peasy! Or maybe you want to make sure that your team members are internalizing what they're learning in the seminars, workshops, or training series? On-on-one sessions can be added to any other solution and customized based on what you or your team members need to get out of it - a brainstorming sesh, a private time to review hands-on exercises (which builds team member confidence in themselves as well as their ability to apply the new information/practices to pain points), etc. What occurs during one-on-ones is tailored to your needs and is **always** confidential."
   url="/service_foo"
   button="Push Here"
  %}
@@ -41,14 +41,14 @@ nav_display: true
   card_type="solutions-card" 
   header_txt="Ongoing Training" 
   title_txt="Why do you need ongoing training?"
-  card_txt="Ongoing training sessions are important when your employees are learning about one or more topics either from scratch or with little practical knowledge. Our ongoing trainings can focus on one specific topic, breaking it down into easily digestible chunks, or they can build on each other, as is the case with our UX Research for Nonpractitioners series. </br> How do you know whether a series or stand-alone session is right for you?"
+  card_txt="Ongoing training sessions are important when you or your employees are learning about one or more topics either from scratch or with little practical knowledge. Our ongoing trainings can focus on one specific topic, breaking it down into easily digestible chunks, or they can build on each other, as is the case with our UX Research for Nonpractitioners series. </br> How do you know whether a series or stand-alone session is right for you?"
   url="/service_foo"
   button="Let's Talk About It!"
  %}
 
  {% include card-one.html
   card_type="solutions-card" 
-  header_txt="1 on 1" 
+  header_txt="Other" 
   title_txt="BAR"
   card_txt="This is the LAST card."
   url="/service_foo"

@@ -23,6 +23,10 @@ My skills toolbox includes a broad range of both quantitative and qualitative me
 
 #### Proud member of:
 
+<img src="/assets/images/womenintech-logo-2024.png" alt="WIT Logo" style= "height: 100px;"/>
+
 <img src="/assets/images/sfaa-logo.png" alt="SfAA Logo" style="height: 100px;"/>
 
 <img src="/assets/images/aaa-logo.svg" alt="AAA Logo" style="height: 100px;"/>
+
+Co-founder of Research on US Health & Healthcare (RUSH), Section Interest Group of the Society for Medical Anthropology (SMA), a section of the American Anthropological Association (AAA).
