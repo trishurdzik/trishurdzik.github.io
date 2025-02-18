@@ -13,10 +13,6 @@ For over a decade, I've had the privilege of working with a diverse array of cli
 
 My extensive work and continuing professional education has taken me to various corners of the globe, allowing me to gain understanding and surface insights firsthand into pain points and opportunities faced by organizations of different sizes, in different communities with different cultures and priorities. I have a passion for understanding the intersections between people, technology, and culture. I leverage that passion to surface insights and recommendations to help organizations and communities navigate complex challenges and achieve their goals. 
 
-### My Approach
-
-My skills toolbox includes a broad range of both quantitative and qualitative methods. Since every organization is unique, I use best-fit methods to gatrher deep, actionable, and, most importantly, feasible insights. 
-
 #### Proud member of:
 
 <img src="/assets/images/womenintech-logo-2024.png" alt="WIT Logo" style= "height: 100px;"/>
