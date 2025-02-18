@@ -7,7 +7,7 @@ image_alt: "Trish and Friends"
 show_top_link: true
 ---
 
-Do you need a specialist in human-centered business solutions with a personal touch? Look no further! I’ve conducted a wide range of ethnographic research and quantitative analysis for a variety of organizations, including Fortune 300 companies, colleges, a medical practice conglomerate, a medical research organization, small businesses, and start-ups. 
+Do you need a specialist in human-centered business solutions with a personal touch? My approach is holistic, considering the broader social, cultural, and economic contexts that influence individual and group behaviors to tailor business solutions that are best for you. Our bespoke services begin with a personal consultation.
 
 For over a decade, I've had the privilege of working with a diverse array of clients, from non-profits and government agencies to private corporations and academic institutions. I enjoy meeting the needs of entrepreneurs and start-ups as much as Fortune 300 companies - maybe more! Their projects span sectors including healthcare, education, business, and community development. 
 
@@ -15,7 +15,7 @@ My extensive work and continuing professional education has taken me to various 
 
 ### My Approach
 
-My skills toolbox includes a broad range of both quantitative and qualitative methods. Since every organization is unique, I use best-fitmethods to gatrher deep, actionable, and,most importantly, feasible insights. My approach is holistic, considering the broader social, cultural, and economic contexts that influence individual and group behaviors.
+My skills toolbox includes a broad range of both quantitative and qualitative methods. Since every organization is unique, I use best-fit methods to gatrher deep, actionable, and, most importantly, feasible insights. 
 
 #### Proud member of:
 
