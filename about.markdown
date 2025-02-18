@@ -7,11 +7,13 @@ image_alt: "Trish and Friends"
 show_top_link: true
 ---
 
-Do you need a specialist in human-centered business solutions with a personal touch? My approach is holistic, considering the broader social, cultural, and economic contexts that influence individual and group behaviors to tailor business solutions that are best for you. Our bespoke services begin with a personal consultation.
+Do you need a specialist in human-centered business solutions with a personal touch? My approach is holistic, considering the broade r social, cultural, and economic contexts that influence individual and group behaviors to tailor business solutions that are best for you. Our educational workshops and seminars have even been described by participants as *fun*.   
 
-For over a decade, I've had the privilege of working with a diverse array of clients, from non-profits and government agencies to private corporations and academic institutions. I enjoy meeting the needs of entrepreneurs and start-ups as much as Fortune 300 companies - maybe more! Their projects span sectors including healthcare, education, business, and community development. 
+For over a decade, I've had the privilege of working with a diverse array of clients, from non-profits and government agencies to private corporations and academic institutions. I enjoy addressing issues of entrepreneurs and start-ups as much as Fortune 300 companies - maybe more! Their projects span sectors including healthcare, education, business, and community development. 
 
-My extensive work and continuing professional education has taken me to various corners of the globe, allowing me to gain understanding and surface insights firsthand into pain points and opportunities faced by organizations of different sizes, in different communities with different cultures and priorities. I have a passion for understanding the intersections between people, technology, and culture. I leverage that passion to surface insights and recommendations to help organizations and communities navigate complex challenges and achieve their goals. 
+My extensive work and continuing professional education has taken me to various corners of the globe, allowing me to gain understanding and surface insights firsthand into pain points and opportunities faced by organizations of different sizes, in different communities with different cultures and priorities. I have a passion for understanding the intersections between people, technology, and culture. I leverage that passion to surface insights and recommendations to help organizations and communities navigate complex challenges and achieve their goals.
+
+Our bespoke services begin with a personal consultation. I can't wait to hear from you!
 
 #### Proud member of:
 
