@@ -9,13 +9,9 @@ show_top_link: true
 
 Do you need a specialist in human-centered business solutions with a personal touch? Look no further! I’ve conducted a wide range of ethnographic research and quantitative analysis for a variety of organizations, including Fortune 300 companies, colleges, a medical practice conglomerate, a medical research organization, small businesses, and start-ups. 
 
-With a passion for understanding the complexities and intersection of human behavior, culture, and social interactions, I bring a unique perspective to every project I undertake. I leverage insights to help organizations and communities navigate complex challenges and achieve their goals. 
+For over a decade, I've had the privilege of working with a diverse array of clients, from non-profits and government agencies to private corporations and academic institutions. I enjoy meeting the needs of entrepreneurs and start-ups as much as Fortune 300 companies - maybe more! Their projects span sectors including healthcare, education, business, and community development. 
 
-### My Background
-
-Over the years, I've had the privilege of working on diverse projects that span across various sectors including healthcare, education, business, and community development. For more than a decade, I have worked with a diverse array of clients, from non-profits and government agencies to private corporations and academic institutions. 
-
-My extensive work has taken me to various corners of the globe, allowing me to immerse myself in different cultures and gain firsthand insights into the pain points and opportunities they face. 
+My extensive work and continuing professional education has taken me to various corners of the globe, allowing me to gain understanding and surface insights firsthand into pain points and opportunities faced by organizations of different sizes, in different communities with different cultures and priorities. I have a passion for understanding the intersections between people, technology, and culture. I leverage that passion to surface insights and recommendations to help organizations and communities navigate complex challenges and achieve their goals. 
 
 ### My Approach
 
