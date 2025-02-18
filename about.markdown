@@ -15,6 +15,8 @@ My extensive work and continuing professional education has taken me to various 
 
 Our bespoke services begin with a personal consultation. I can't wait to hear from you!
 
+Trish
+
 #### Proud member of:
 
 <img src="/assets/images/womenintech-logo-2024.png" alt="WIT Logo" style= "height: 100px;"/>
