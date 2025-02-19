@@ -4,6 +4,7 @@ source "https://rubygems.org"
   gem 'autoprefixer-rails', '~> 10.4', '>= 10.4.19.0'
   gem 'bootstrap', '~>5.3.3'
   gem 'concurrent-ruby', '~>1.3.4'
+  gem 'json'
   gem 'faraday', '~>2.12.0'
   gem 'faraday-net_http', '~>3.3.0'
   gem 'faraday-retry', '~>2.2.1'
@@ -13,7 +14,6 @@ source "https://rubygems.org"
   gem 'jekyll'
   gem 'jekyll-sass-converter', '~>3.0.0'
   gem 'jekyll-theme-primer', '~>0.6.0'
-  gem 'json', '~>2.7.2'
   gem 'kramdown'
   gem 'logger', '~>1.6.1'
   gem 'mercenary', '~>0.4.0'
@@ -29,5 +29,5 @@ source "https://rubygems.org"
   gem 'terminal-table', '~>3.0.2'
   gem 'unicode-display_width', '~>2.6.0'
   gem 'uri', '~>0.13.1'
-  gem 'webrick', '~> 1.8.2'
+  gem 'webrick'
   gemspec
