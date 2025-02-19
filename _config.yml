@@ -1,4 +1,4 @@
-title: Trish Urdzik - UX/UI Researcher
+title:
 author:
   name: 'Trish Urdzik'
   email: 'trish@trishurdzik.com'
@@ -12,7 +12,7 @@ excerpts:
   # You can also leave this false, and manually control excerpt length:
   # https://jekyllrb.com/docs/posts/#post-excerpts
   truncate: false    
-date: 2024-10-06 07:00:00 -0400
+date: 2025-02-10 17:00:00 -0500
 date_format: "%y-%m-%d %H:%M:%S %z"
 iso_date_format: "%Y-%m-%dT%H:%M:%S%:z"
 search_enabled: true
@@ -32,7 +32,10 @@ bootstrap:
   # If you want to link only specific pages in your header, uncomment
   # this and add the path to the page *files* in order as they should show up
   header_pages:
-   - about.md
+   - index.markdown
+   - solutions.markdown
+   - contact.markdown
+   - about.markdown
 
   # generate social links in footer
   social_links:

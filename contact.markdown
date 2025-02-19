@@ -5,10 +5,8 @@ image: /assets/images/contact_image_01.jpg
 permalink: /contact/
 ---
 
-I am always excited to connect with new clients and collaborators. Whether you're looking to understand your audience better, improve your community engagement efforts, or develop culturally informed strategies, I am here to help.
+Do you need to defend or improve your realm? Or perhaps you're new to throne and are unsure about what you or your organization needs? 
 
-If you're looking for a dedicated consultant who can provide valuable insights and drive meaningful change, I'd love to hear from you. Please feel free to contact me or connect with me on LinkedIn.
+Whether you're interested in a personalized, one-time project or a series of services, it's my pleasure to work with you to create the perfect plan for your organization. Reach out and let's talk about how I can help you achieve your goals. 
 
-I look forward to working together to create impactful and sustainable solutions.
-
-### Contact Me
+### Let's Talk!

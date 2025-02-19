@@ -4,6 +4,8 @@ layout: null
 
 @import "main";
 @import "bootstrap-theme";
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Bangers&family=Birthstone&family=Caramel&family=Dongle&family=Eagle+Lake&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Explora&family=Genos:ital,wght@0,100..900;1,100..900&family=Honk&family=IM+Fell+Double+Pica:ital@0;1&family=Jockey+One&family=Mada:wght@200..900&family=Markazi+Text:wght@400..700&family=Mina:wght@400;700&family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&family=Nova+Square&family=Nuosu+SIL&family=Orbitron:wght@400..900&family=Oxygen:wght@300;400;700&family=Ramaraja&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Glitch&family=Scope+One&family=Special+Elite&family=Tillana:wght@400;500;600;700;800&family=Tulpen+One&family=Uncial+Antiqua&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
+
 
 a.heading-anchor {
   text-decoration: none;
@@ -67,6 +69,32 @@ a.contents-list-anchor {
   text-decoration: none;
 }
 
+.rubik-glitch-regular {
+  font-family: "Rubik Glitch", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.babylonica-regular {
+  font-family: "Babylonica", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.honk-bold {
+  font-family: "Honk", serif;
+  font-weight: 600;
+  font-style: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Honk", serif;
+}
+
+.card { 
+  background-color: #91989c !important; 
+}
+
 header, body, footer, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button, label, select, textarea {
   color: white !important;
 }
@@ -76,8 +104,17 @@ header, footer, #contents-list-div, div.modal-content{
 }
 
 body {
-   background: linear-gradient(to right, #61aa83, #008885, #00637e, #003d66, #1a173f) !important;
+   background: #491e5d !important;
 }
+
+
+.solutions-card {
+  border-radius: 10px 10px;
+  margin: 10px;
+  width: 18rem;
+}
+
+
 
 div.git_build_data, div.git_build_data span {
   color: {{ site.git_build_data_color }} !important;
