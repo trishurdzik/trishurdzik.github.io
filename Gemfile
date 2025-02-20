@@ -4,7 +4,7 @@ source "https://rubygems.org"
   gem 'autoprefixer-rails', '~> 10.4', '>= 10.4.19.0'
   gem 'bootstrap', '~>5.3.3'
   gem 'concurrent-ruby', '~>1.3.4'
-  gem 'json'
+  gem 'json', '->2.7.2'
   gem 'faraday', '~>2.12.0'
   gem 'faraday-net_http', '~>3.3.0'
   gem 'faraday-retry', '~>2.2.1'
@@ -29,5 +29,5 @@ source "https://rubygems.org"
   gem 'terminal-table', '~>3.0.2'
   gem 'unicode-display_width', '~>2.6.0'
   gem 'uri', '~>0.13.1'
-  gem 'webrick'
-  gemspec
+  gem 'webrick', '~>1.8.2'
+gemspec
