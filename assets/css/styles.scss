@@ -104,7 +104,7 @@ header, footer, #contents-list-div, div.modal-content{
 }
 
 body {
-   background: #491e5d !important;
+   background: {{ site.background_color }} !important;
 }
 
 
