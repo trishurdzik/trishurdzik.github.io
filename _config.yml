@@ -36,8 +36,9 @@ bootstrap:
   header_pages:
    - index.markdown
    - solutions.markdown
-   - contact.markdown
    - about.markdown
+   - FAQ.md
+   - contact.markdown
 
   # generate social links in footer
   social_links:
