@@ -87,8 +87,18 @@ a.contents-list-anchor {
   font-style: bold;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.teko {
+  font-family: "Teko", serif;
+  font-weight: 400;
+  font-style: bold;
+}
+
+h1, h2, h3 {
   font-family: "Honk", serif;
+}
+
+h4 {
+  font-family: "Teko", serif;
 }
 
 .card { 
