@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: default 
+title: FAQ
+permalink: /faq
 ---
 <article class="post">
 
