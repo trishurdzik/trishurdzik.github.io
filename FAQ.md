@@ -6,7 +6,7 @@ permalink: /faq
 
 ### Have questions? We have answers!
 
-Why should I work with you?
+#### Why should I work with you?
 
 #### I'm establishing, or will establish, a research team at my organization. Can I get guidance on what to do? 
 
@@ -18,3 +18,12 @@ A designer with both research and design responsibilities means that the UXD has
 
 #### I already have an idea of the research I want to do. Can I just get your opinion?
 
+#### What's the difference between a workshop and a seminar? Don't they all review the same information?
+
+#### Can I get ongoing support?
+
+#### When is a training series better than a single workshop, seminar, etc.?
+
+#### Do you perform 360 reviews? (Also known as 360-degree feedback or multi-source feedback)
+
+#### I need to survey my employees/team, but I know that many people won't give their honest opinion because they're afraid it won't be confidential or anonymous. Can you create, administer, and report findings in a way that makes them comfortable giving honest feedback?
