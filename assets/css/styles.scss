@@ -94,11 +94,15 @@ a.contents-list-anchor {
 }
 
 h1, h2, h3 {
-  font-family: "Honk", serif;
+  font-family: "Honk-bold", serif;
+  font-weight:900;
+  font-style:bold;
 }
 
 h4 {
-  font-family: "Babylonica", serif;
+  font-family: "Babylonica-regular", serif;
+  font-weight: 300
+  font-style: bold;  
 }
 
 .card { 
