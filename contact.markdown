@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: "Critical Path will help you on your journey"
+title: "Critical Path Will Help You On Your Journey"
 image: /assets/images/contact_image_01.jpg
 permalink: /contact/
 ---
