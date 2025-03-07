@@ -4,8 +4,10 @@ title: "Home"
 image: /assets/images/index_image_01.jpg
 permalink: "/"
 nav_display: true
-header_title: "Welcome to Critical Path Consulting!"
+header_title: "Welcome to Critical Path!"
 ---
+
+Critical Path Consulting - where human-centered solutions are found.
 
 Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:
 
