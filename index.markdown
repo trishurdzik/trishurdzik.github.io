@@ -7,7 +7,7 @@ nav_display: true
 header_title: "Welcome to Critical Path!"
 ---
 
-Critical Path Consulting - where human-centered solutions are found.
+### Critical Path Consulting - Where Human-Centered Solutions Are Found.
 
 Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:
 
