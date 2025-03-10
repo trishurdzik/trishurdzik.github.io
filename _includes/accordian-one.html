@@ -1,13 +1,42 @@
-<div class="accordion " id="accordion_one">
+<div class="accordion" id="accordion">
     {% for item in page.accordian %}
         <div class="accordion-item">
             <h3 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-{{item.id}}" aria-expanded="false" aria-controls="flush-collapse-{{item.id}}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-{{ item.id }}" aria-expanded="false" aria-controls="flush-collapse-{{item.id}}">
                 {{ item.header }}
                 </button>
             </h3>
             <div id="flush-collapse-{{ item.id }}" class="accordion-collapse collapse" data-bs-parent="#accordion_one">
-                <div class="accordion-body">{{ item.content }}</div>
+                <div class="accordion-body">
+
+                    {% if item.content.data %}
+                        {% include _accordian_text_data.html %}
+                        {}
+                    {% endif %}
+
+                    {% if item.content.title %}
+                        <h4>{{ item.content.title }}</h4>
+                    {% endif %}
+                    {% if item.content %}
+                        <p>{{ item.content }}</p>
+                    {% endif %}
+
+                    {% for content in item.contents %}
+                        {% if content.para %}
+                            {% for para in content.para %}
+                                <p>{{ para }}</p>
+                            {% endfor %}
+                        {% endif %}
+
+                        {% if content.list %}
+                            <ul>
+                                {% for item in content.list %}
+                                    <li>{{ item }}</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    {% endfor %}
+                </div>
             </div>
         </div>
     {% endfor %}

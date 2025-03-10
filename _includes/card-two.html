@@ -1,0 +1,10 @@
+<div class="card {{ include.card_type }}">
+    <h3 class="card-header">{{ include.header_txt }}</h3>
+    <div class="card-body">
+        <h4 class="card-title">{{ include.title_txt }}</h4>
+        {%- for para in include.card_txt -%}
+            <p class="card-text">{{ para }}</p>
+        {%- endfor -%}
+        <a href="{{ include.url }}" class="btn btn-primary">{{ include.button }}</a>
+    </div>
+</div>

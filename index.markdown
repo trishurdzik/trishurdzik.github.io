@@ -6,11 +6,11 @@ nav_display: true
 header_title: "Welcome to Critical Path!"
 carousel:
   slides:
-    - img: /assets/images/placehold_1200x300.svg
+    - img: /assets/images/wire-frame-1311161_1280.jpg
       header: First Slide Header
       caption: First Caption Lorem IUpsom flim flam floo
       active: true 
-    - img: /assets/images/placehold_1200x300.svg
+    - img: /assets/images/keyboard-1385706_1280.jpg
       header: Second Slide Header
       caption: Second Caption Lorem IUpsom flim flam floo 
     - img: /assets/images/placehold_1200x300.svg
@@ -19,7 +19,8 @@ carousel:
 ---
 {% include carousel.html %}
 
-### Critical Path Consulting - Where Human-Centered Solutions Are Found.
+<h2 class="text-center">Critical Path Consulting</h2>
+<h3 class="text-center">Where Human-Centered Solutions Are Found</h3>
 
 Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:
 
