@@ -1,11 +1,23 @@
 ---
 layout: default
 title: "Home"
-image: /assets/images/index_image_01.jpg
 permalink: "/"
 nav_display: true
 header_title: "Welcome to Critical Path!"
+carousel:
+  slides:
+    - img: /assets/images/placehold_1200x300.svg
+      header: First Slide Header
+      caption: First Caption Lorem IUpsom flim flam floo
+      active: true 
+    - img: /assets/images/placehold_1200x300.svg
+      header: Second Slide Header
+      caption: Second Caption Lorem IUpsom flim flam floo 
+    - img: /assets/images/placehold_1200x300.svg
+      header: Third Slide Header
+      caption: Third Caption Lorem IUpsom flim flam floo 
 ---
+{% include carousel.html %}
 
 ### Critical Path Consulting - Where Human-Centered Solutions Are Found.
 
