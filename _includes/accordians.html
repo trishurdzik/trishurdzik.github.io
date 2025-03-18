@@ -2,7 +2,7 @@
     {% for accord in page.accordians %}
         <div class="accordion-item">
             <h3 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-{{ include.id }}-{{ accord.id }}" aria-expanded="false" aria-controls="flush-collapse-{{ include.id }}-{{ accord.id }}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-{{ include.id }}" aria-expanded="false" aria-controls="flush-collapse-{{ include.id }}-{{ accord.id }}">
                 {{ accord.accordian[forloop.index0].header }}
                 </button>
             </h3>

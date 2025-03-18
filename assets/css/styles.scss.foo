@@ -6,31 +6,11 @@ layout: null
 @import "bootstrap-theme";
 @import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Bangers&family=Birthstone&family=Caramel&family=Dongle&family=Eagle+Lake&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Explora&family=Genos:ital,wght@0,100..900;1,100..900&family=Honk&family=IM+Fell+Double+Pica:ital@0;1&family=Jockey+One&family=Mada:wght@200..900&family=Markazi+Text:wght@400..700&family=Mina:wght@400;700&family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&family=Nova+Square&family=Nuosu+SIL&family=Orbitron:wght@400..900&family=Oxygen:wght@300;400;700&family=Ramaraja&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Glitch&family=Scope+One&family=Special+Elite&family=Tillana:wght@400;500;600;700;800&family=Tulpen+One&family=Uncial+Antiqua&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
 
-body {
-  background: {{ site.background_color }} !important;
-  color: white !important;
-}
 
 a.heading-anchor {
   text-decoration: none;
+  color: #000;
 }
-
-h1 {
-  font-family: "Honk", serif;
-  font-weight:900;
-  font-style:regular;
-  font-size: 300;
-}
-
-h2, h3 {
-  font-family: "Tulpen One", sans-serif;
-  font-weight: 400;
-  font-style: bold;
-  font-size: 300%;
-}
-
-
-
 
 #contents-list-div {
   position: sticky;
@@ -43,66 +23,21 @@ h2, h3 {
   list-style-type: none;  
 }
 
-.card, .accordian, .accordian-header, .accordian-body { 
-  background-color: #91989c; 
-}
+@media screen and (max-width: 800px) and (orientation: portait) {
+  #header_title {
+    font-size: 50%;
+  }
 
-h2.post-title {
-  font-family: "Honk", serif;
-  font-weight: 900;
-  font-style: normal;
-  font-size: 300%;
-}
-
-h3.post-content {
-  font-family: "Tulpen One", serif;
-  font-weight: 900;
-  font-style: bold;
-  font-size: 100%;
-
-}
-
-.solutions-card {
-  background-color: #cccccc;
-}
-
-.solutions-card h3.card-header {
-    font-family: "Tulpen One", serif;
-    font-weight: bold;
-    font-style: normal;
-    font-size: 200%;
-    color: white;
-}
-
-.solutions-card h4.card-title {
-    //font-family: "Genos", sans-serif;
-    font-weight: bold;
-    font-style: normal;
-    font-size: 100%;
-}
-
-/* header, body, footer, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button, label, select, textarea {
-  
-}*/
-
-header, footer, #contents-list-div, div.modal-content{
-  background: #008885 !important;
-}
-
-.card-header {
-  background-color: #008885 !important;
-}
-
-.solutions-card {
-  border-radius: 10px 10px;
-  margin: 10px;
-  width: 18rem;
+  #contents-list-div {
+    position: inherit;
+  }
 }
 
 .footer-nav .nav-link {
   padding: 0;
   margin: 0;
 }
+
 
 pre.highlight {
   margin: 5px 5px 20px 5px;
@@ -114,8 +49,7 @@ pre.highlight {
 code {
   line-height: 175% !important;
 }
-
-code span.na {
+ code span.na {
   font-weight: bold !important;
  }
 
@@ -144,48 +78,69 @@ a.contents-list-anchor {
 .babylonica-regular {
   font-family: "Babylonica", serif;
   font-weight: 400;
-  font-style: bold;
+  font-style: normal;
 }
 
 .honk-bold {
   font-family: "Honk", serif;
-  font-weight: 900;
+  font-weight: 600;
   font-style: bold;
 }
 
-.teko {
-  font-family: "Teko", serif;
+h1, h2 {
+  font-family: "Honk", serif;
+  font-size: xx-large !important; 
+  font-weight: 600;
+  font-style: bold;
+}
+
+h3, h4 {
+  font-family: "Tulpen One", serif;
   font-weight: 400;
-  font-style: bold;
+  font-style: normal;  
 }
 
-.genos-bold {
-  font-family: "Genos", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: bold;
+.homenaje-regular {
+    font-family: "Homenaje", serif;
+    font-weight: 400;
+    font-style: normal;  
+}
+
+h5, h6 {
+  font-family: "Robotica", serif;
+  font-weight: 600;
+  font-style: normal;
 }
 
 .tulpen-one-regular {
-  font-family: "Tulpen One", sans-serif;
+  font-family: "Tulpen One", serif;
+  font-size: medium !important;
   font-weight: 400;
-  font-style: normal;
-  font-size: 200;
+  font-style: bold;
+}
+
+.solutions-card {
+  background-color: #f6f4f6 !important; 
+  border-radius: 10px 10px;
+  margin: 10px;
+  width: 18rem;
+  color: black !important;
+}
+
+header, body, footer, h1, h2, h3, h4, h5, h6, a, li, span, div, input, button, label, select, textarea {
+  color: white;
+}
+
+header, footer, #contents-list-div, div.modal-content{
+  background: #008885 !important;
+}
+
+body {
+   background: #491e5d !important;
 }
 
 div.git_build_data, div.git_build_data span {
   color: {{ site.git_build_data_color }} !important;
-}
-
-
-@media screen and (max-width: 800px) and (orientation: portait) {
-  #header_title {
-    font-size: 50%;
-  }
-
-  #contents-list-div {
-    position: inherit;
-  }
 }
 
 media print {
@@ -193,4 +148,3 @@ media print {
     color: black !important;
   }
 }
-

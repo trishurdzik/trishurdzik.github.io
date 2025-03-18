@@ -1,20 +1,21 @@
-{% if page.image or page.header_title -%}
-<div class="container">
-    <div class="row">
-        <div class="col">    
-            {% if page.image and page.header_title != "" %}
-                <div id="header_image_title" class="text-center">                    
-                    <img id="header_image" class="img-fluid" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: 'Header Image' }}">
-                    <h2 id="header_title" class="mx-auto">
-                        {{ page.header_title }}
-                    </h2>
-                </div>
-            {% elsif page.header_title %}
-                <h1 id="header_title" class="mt-2 text-center">{{ page.header_title }}</h1>
-            {% elsif page.image %}
-                <img id="header_image" src="{{ page.image }}" alt="{{ page.image_alt | default: 'Header Image' }}">            
-            {% endif -%}
+
+{%- if page.image or page.header_title -%}
+    <div class="container">
+        <div class="row">
+            <div class="col">    
+                {% if page.image and page.header_title != "" %}
+                    <div id="header_image_title" class="text-center">                    
+                        <img id="header_image" class="img-fluid" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: 'Header Image' }}">
+                        <h1 id="header_title" class="mx-auto">
+                            {{ page.header_title }}
+                        </h1>
+                    </div>
+                {% elsif page.header_title %}
+                    <h1 id="header_title" class="mt-5 text-center">{{ page.header_title }}</h1>
+                {% elsif page.image %}
+                    <img id="header_image" src="{{ page.image }}" alt="{{ page.image_alt | default: 'Header Image' }}">            
+                {% endif -%}
+            </div>
         </div>
     </div>
-</div>
-{% endif -%}
+{%- endif -%}

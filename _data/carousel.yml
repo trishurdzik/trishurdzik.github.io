@@ -1,0 +1,11 @@
+- image: https://placehold.co/1200x200/000000/DDD
+  header: Carousel Header One
+  paragraph: Carousel Para One
+
+- image: https://placehold.co/1200x200/000000/CCC
+  header: Carousel Header Two
+  paragraph: Carousel Para Two
+
+- image: https://placehold.co/1200x200/000000/BBB
+  header: Carousel Header Three
+  paragraph: Carousel Para Three
