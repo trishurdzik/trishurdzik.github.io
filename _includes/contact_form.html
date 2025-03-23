@@ -1,4 +1,5 @@
-<form action="https://formspree.io/f/{{ site.formspree }}" method="POST" name="sentMessage" id="contactForm" novalidate>
+
+<form action="https://formspree.io/f/{{ site.formspree_id }}" method="POST" name="sentMessage" id="contactForm" novalidate>
   <input type="hidden"  name="_subject" value="{{ site.title }} Form Submission!">
   <input type="text" name="_gotcha" style="display:none" />    
   <div class="row control-group">
@@ -61,7 +62,7 @@
 function submitForm(e) {
   //e.preventDefault;
   console.log("open window");
-  document.sentMessage.target = "https://formspree.io/f/{{ site.formspree }}";
+  document.sentMessage.target = "https://formspree.io/f/{{ site.formspree_id }}";
   console.log("submitting form");
   document.sentMessage.submit();
   console.log("form submitted");

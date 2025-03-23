@@ -23,7 +23,7 @@ google_analytics: false
 google_tag_manager: 'GTM-XXXXXXX'
 sidebar_headers: true
 show_top_link: true
-formspree_id: 'your_formspree_id'
+formspree_id: 'xrgnlagk'
 htmx_enabled: false
 
 # Theme configuration

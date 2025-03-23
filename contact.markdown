@@ -3,6 +3,7 @@ layout: contact
 title: "Contact"
 image: /assets/images/contact_image_01.jpg
 permalink: /contact/
+sidebar_headers: false
 ---
 
 ### Critical Path Consulting - Where Human-Centered Solutions Are Found
