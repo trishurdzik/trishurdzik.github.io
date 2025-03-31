@@ -36,6 +36,7 @@ bootstrap:
   header_pages:
    - index.markdown
    - solutions.markdown
+   - format.markdown
    - about.markdown
    - FAQ.md
    - contact.markdown
@@ -118,3 +119,4 @@ exclude:
   - package.json
   - package-lock.json
   - README.md
+  - '*.nopub'
