@@ -154,6 +154,40 @@ button="Let's Get Started!"
 
 {% include card-begin.html
 card_type="solutions-card" 
+header_txt="I Want It All!: The Full Series" 
+title_txt="A training series."
+%}
+<p class="card-text">In this course, you'll learn one-on-one the role of the researcher, ethics and fundamental skills, how to plan research based on project type, how and why quantitative analysis should be part of your work, and the current role of AI in reputable research.</p>
+<p class="card-text">Do you need a research project for your portfolio or research guidance on theses? We pride ourselves on personalizing our research series to meet your specific needs.</p>
+<p class="card-text"><strong>Who is this for?</strong>
+  <ul>
+    <li>student or beggining researchers</li> 
+    <li>UX professionals in non-research roles</li>
+  </ul>
+</p>
+<p class="card-text"><strong>Time Committment</strong>
+  <ul>
+    <li>Committment time varies. Let's talk about your goals and time to dedicate to the course and adjust it based on your needs.</li> 
+  </ul>
+</p>
+<p class="card-text"><strong>Price</strong>
+  <ul>
+    <li>Committment time varies. Let's talk about your goals and time to dedicate to the course and adjust it based on your needs.</li> 
+  </ul>
+</p>
+<p class="card-text"><strong>Format</strong>
+  <ul>
+    <li>The skills and materials are learned face to face, either in real life or via videoconference with the individual or group taking the course.</li>
+    <li>The personalization you choose may include workshopping, skills practices between modules, and/or mentoring session(s).</li> 
+  </ul>
+</p>
+{% include card-end.html 
+url="/service_foo"
+button="I'm So Ready!"
+%}
+
+{% include card-begin.html
+card_type="solutions-card" 
 header_txt="Retainers" 
 title_txt="Expert Advice at **Your** Convenience."
 %}
