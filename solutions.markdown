@@ -11,7 +11,7 @@ sidebar_headers: false
 
 {% include card-begin.html
 card_type="solutions-card" 
-header_txt="1 on 1 Sessions" 
+header_txt="1 o+n 1 Sessions" 
 title_txt="Why?" 
 %}
 <p class="card-text">In this course, you'll learn....</p>
@@ -43,80 +43,6 @@ title_txt="Why?"
 {% include card-end.html
 url="/service_foo"
 button="Let's Chat!"
-%}
-
-
-{% include card-begin.html
-card_type="solutions-card" 
-header_txt="Who Doesn't Love a Workshop?" 
-title_txt="Workshops: Internalizing new skills by hands-on practice."
-%}
-<p class="card-text">In this course, you'll learn....</p>
-<p class="card-text">Do you need a ...</p>
-<p class="card-text">something thingthing</p>
-  <p class="card-text"><strong>Who is this for?</strong>
-  <ul>
-    <li>Small businesses or start-ups with new or improved products or services.  </li>
-  </ul>
-</p>
-<p class="card-text"><strong>Time Committment</strong>
-  <ul>
-    <li>Seminar or Mentoring: 60min.</li>
-    <li>Workshop:  90min</li>
-  </ul>
-</p>
-<p class="card-text"><strong>Price</strong>
-  <ul>
-    <li>Seminar or Mentoring: $100</li>
-    <li>Workshop for up to 6 people: $950</li>
-  </ul>
-</p>
-<p class="card-text"><strong>Format</strong>
-  <ul>
-    <li>The skills and materials are learned face to face, either in real life or via videoconference with the individual or group taking the course.</li>
-    <li>The personalization you choose may include skills practices between modules, and/or mentoring session(s).</li> 
-  </ul>
-</p>
-{% include card-end.html
-url="/service_foo"
-button="Let's Get Started!"
-%}
-
-
-{% include card-begin.html
-card_type="solutions-card" 
-header_txt="Seminars are Perfect for Busy Schedules!" 
-title_txt="Seminars: High-level, big picture learning for those short on time."
-%}
-<p class="card-text">In this course, you'll learn....</p>
-<p class="card-text">Do you need a ...</p>
-<p class="card-text">something thingthing</p>
-  <p class="card-text"><strong>Who is this for?</strong>
-  <ul>
-    <li>Small businesses or start-ups with new or improved products or services.  </li>
-  </ul>
-</p>
-<p class="card-text"><strong>Time Committment</strong>
-  <ul>
-    <li>Seminar or Mentoring: 60min.</li>
-    <li>Workshop:  90min</li>
-  </ul>
-</p>
-<p class="card-text"><strong>Price</strong>
-  <ul>
-    <li>Seminar or Mentoring: $100</li>
-    <li>Workshop for up to 6 people: $950</li>
-  </ul>
-</p>
-<p class="card-text"><strong>Format</strong>
-  <ul>
-    <li>The skills and materials are learned face to face, either in real life or via videoconference with the individual or group taking the course.</li>
-    <li>The personalization you choose may include skills practices between modules, and/or mentoring session(s).</li> 
-  </ul>
-</p>
-{% include card-end.html
-url="/service_foo"
-button="Let's Go!"
 %}
 
 </div>
