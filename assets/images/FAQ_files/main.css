@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta name="author" content="Trish Urdzik" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/404.html" />
+<meta property="og:url" content="http://localhost:4000/404.html" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Trish Urdzik"},"url":"http://localhost:4000/404.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/bootstrap-theme.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+
+<script src="/assets/js/lunr.js" type="text/JavaScript"></script>
+<script src="/assets/js/lunr_search.js" type="text/JavaScript"></script>
+<script src="/assets/js/documents.js" type="text/JavaScript"></script>
+<!-- JQuery fro the heading sidebar -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/assets/css/jcloud.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.4/jqcloud.min.js" integrity="sha512-kKFIFIYZ70cs9AxqGnLqwhm1t0DI3vwiIGGe2r0zulHVgpDYvW3QZuIqsFzgbqmEsq1no2YCBJ7O99t8kmVu2A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body class=""><header><nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="navbar-brand" href="/"></a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0"><li class="nav-item">
+                <a class="nav-link " href="/">Home</a>
+              </li><li class="nav-item">
+                <a class="nav-link " href="/solutions">Solutions</a>
+              </li><li class="nav-item">
+                <a class="nav-link " href="/about/">About</a>
+              </li><li class="nav-item">
+                <a class="nav-link " href="/faq">FAQ</a>
+              </li><li class="nav-item">
+                <a class="nav-link " href="/contact/">Contact</a>
+              </li></ul>
+      </div><script>
+    function searchScript(event) {
+        event.preventDefault();
+        console.log("SEARCH SCRIPT");   
+        var searchValue = document.getElementById('lunrsearch').value;    
+        const myModalAlternative = new bootstrap.Modal('#searchModal1', {});
+        lunr_search(document.getElementById('lunrsearch').value, event);
+        myModalAlternative.show();
+        console.log("SEARCH SCRIPT2");   
+    }
+</script>
+
+<form 
+    class="d-flex"
+    role="search" 
+    onSubmit="searchScript(event);">
+    <input id="lunrsearch" 
+      type="search" 
+      class="form-control me-2"
+      name="value" 
+      maxlength="255" 
+      value="" 
+      placeholder="Search"
+      style="width: 10em;"
+      />
+    <button class="btn btn-outline-success"      
+      type="submit">
+        Search
+    </button>
+</form>
+
+    </div>
+  </nav>
+</header><main class="page-content py-1" aria-label="main page">
+      <div class="container-fluid">        
+        <div class="row">
+          <div class="col-md" style="margin-left: 10%; margin-right: 10%;">
+            <style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1>404 <i class="bi bi-bug-fill"></i></h1>
+      <p><strong>Page not found</strong> <i class="bi bi-heartbreak"></i></p>      
+      <p>The requested page could not be found.</p>    
+    </div>
+  </div>  
+</div>
+
+          </div>          
+          </div>
+      </div><!--./container-fluid -->
+    </main> 
+
+    <footer class="footer mt-auto p-3 h-card z-100">
+  <data class="u-url" href="/"></data>
+  <div class="container py-3">
+    <div class="row">
+      <div class="col">
+        <h6>Author/Site info</h6>
+        <ul class="contact-list list-unstyled">
+          <li class="p-name">Trish Urdzik</li>
+          <li><a class="u-email" href="mailto:trish@trishurdzik.com">trish@trishurdzik.com</a></li>                
+          <li class="sitemap">
+            <i class="bi bi-diagram-3"></i>
+            <a class="" href="/sitemap.xml">            
+              <span>Sitemap</span>
+            </a>
+          </li>
+          <li class="feed-subscribe">
+            <a class="btn btn-orange text-white" href="/feed.xml">
+              <i class="bi bi-rss-fill"></i>
+              <span>Subscribe</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col px-2">
+        <h6>Navigation</h6>
+        <ul class="footer-nav" style="list-style-type: none; padding: 0; margin: 5;" >
+          <li class="nav-item">
+    <a class="nav-link" href="/faq">FAQ</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/meet%20the%20team">Meet the Team</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/about/">About</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/about/">About</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/contact/">Contact</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/format/">Format Personalization</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/">Home</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/">Home</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/services">Services</a>
+  </li><li class="nav-item">
+    <a class="nav-link" href="/solutions">Solutions</a>
+  </li></ul>
+      </div>
+      <!-- div class="col">
+      <h6>About</h6>
+        <p></p>
+      </div 
+    </div --><div class="row py-3">
+      <div class="col "><ul class="text-center list-inline"><li class="list-inline-item"><a rel="me" class="link-secondary" href="https://github.com/trishurdzik"><i class="bi bi-github"role="img" aria-label="GitHub"></i></a></li></ul>
+<div class="text-center">Site by <a href="https://hepaestus.com" target="_blank">Hepaestus Consulting</a></div>
+        <div class="text-center">
+          <div class="git_build_data">
+<span>Built By: pete</span> 
+2024-10-22 10:32:45
+g44c7032
+44c7032fec10b7a3818c9626bf38a179fbaf617b
+</div>
+    
+        </div>
+      </div>
+    </div></div>
+</footer>
+<div class="modal" tabindex="-1" id="searchModal1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Search Results</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">        
+        <div id="lunrsearchresults">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+
+</html>
