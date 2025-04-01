@@ -1,7 +1,7 @@
 title:
 author:
-  name: 'Trish Urdzik'
-  email: 'trish@trishurdzik.com'
+  #name: 'Trish Urdzik'
+  #email: 'trish@trishurdzik.com'
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "criticalpaths.net"
@@ -25,6 +25,7 @@ sidebar_headers: true
 show_top_link: true
 formspree_id: 'xrgnlagk'
 htmx_enabled: false
+logo: "assets/images/critpaths-logo.png"
 
 # Theme configuration
 bootstrap:
@@ -36,6 +37,8 @@ bootstrap:
   header_pages:
    - index.markdown
    - solutions.markdown
+   - format.markdown
+   - services.markdown
    - about.markdown
    - FAQ.md
    - contact.markdown
@@ -98,6 +101,8 @@ include:
 
 # Exclude from processing.
 exclude:
+  - projects
+  - thanks.html
   - Gemfile
   - Gemfile.lock
   - node_modules
@@ -118,3 +123,4 @@ exclude:
   - package.json
   - package-lock.json
   - README.md
+  - '*.nopub'

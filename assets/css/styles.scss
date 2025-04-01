@@ -30,8 +30,6 @@ h2, h3 {
 }
 
 
-
-
 #contents-list-div {
   position: sticky;
   padding: 10px;
@@ -99,9 +97,20 @@ header, footer, #contents-list-div, div.modal-content{
   width: 18rem;
 }
 
+h3.accordian-header button.accordian-button {
+  font-family: "Tulpen One", serif;
+  font-weight: boldest;
+  font-size: 400%;
+}
+
 .footer-nav .nav-link {
   padding: 0;
   margin: 0;
+  font-size: smaller;
+}
+
+.attribution {
+  font-size: x-small;
 }
 
 pre.highlight {

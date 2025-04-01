@@ -16,11 +16,18 @@ Our passion is meeting the needs of our client, no matter their size, industry, 
 Take your next step to success with Critical Paths, where human-centered solutions are found.
 
 #### Proud member of:
-
-<img src="/assets/images/womenintech-logo-2024.png" alt="WIT Logo" style= "height: 100px;"/>
-
-<img src="/assets/images/sfaa-logo.png" alt="SfAA Logo" style="height: 100px;"/>
-
-<img src="/assets/images/aaa-logo.svg" alt="AAA Logo" style="height: 100px;"/>
+<div class="row my-2">
+    <div class="col">
+        <img src="/assets/images/womenintech-logo-2024.png" alt="WIT Logo" style= "height: 100px;"/>
+    </div>
+    <div class="col">
+        <img src="/assets/images/sfaa-logo.png" alt="SfAA Logo" style="height: 100px;"/>
+    </div>
+</div>
+<div class="row my-2">
+    <div class="col text-center">
+        <img src="/assets/images/aaa-logo.svg" alt="AAA Logo" style="height: 100px;"/>
+    </div>
+</div>
 
 Co-founder of Research on US Health & Healthcare (RUSH), Section Interest Group of the Society for Medical Anthropology (SMA), a section of the American Anthropological Association (AAA).

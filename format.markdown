@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Format Personalization    
+layout: default
+title: Format Personalization
 permalink: /format/
+nav_display: true
+header_title: "Format Personalization"
+sidebar_headers: false
 show_top_link: true
 ---
 
@@ -10,21 +13,17 @@ At Critical Paths, we understand that that there's no "one size fits all" soluti
 <div class="card-group">
 
 {% include card-begin.html
-card_type="solutions-card" 
-header_txt="WProject investigation research study" 
+card_type="solutions-card"
+header_txt="Project investigation research study"
 title_txt="When You Don't Know What You Need to Know."
 %}
 <p class="card-text">Wogggg. </p>
 <p class="card-text">Workggggs.</p>
-  <p class="card-text"><strong>Who is this for?</strong>
+<p class="card-text"><strong>Who is this for?</strong>
   <ul>
-
-  **Skggg**: gggyour business. 
-
-  **Prodggg**: gggur.
-
-  **Iggg**: ggg
-
+    <li><strong>Skggg:</strong> gggyour business. </li>
+    <li><strong>Skggg:</strong> gggyour business. </li>
+    <li><strong>Skggg:</strong> gggyour business. </li>
   </ul>
 </p>
 <p class="card-text"><strong>Time Committment</strong>
@@ -49,9 +48,9 @@ button="Let's Get Started!"
 %}
 
 {% include card-begin.html
-card_type="format-card" 
-header_txt="1 on 1 Sessions" 
-title_txt="Expertise When You Need It" 
+card_type="solutions-card"
+header_txt="1 on 1 Sessions"
+title_txt="Expertise When You Need It"
 %}
 <p class="card-text">Would you like personalized, 1 on 1 attention? Perhaps you already have a project in mind and just want to know if you're on the right track?</p>
   <p class="card-text"><strong>Who is this for?</strong>
@@ -64,7 +63,7 @@ title_txt="Expertise When You Need It"
     <li>Each session is 60 minutes long. You may wish to purchase add-ons, such as home assignments to further internalize the material, which we would review in the next session. The time it takes to complete the added materials vary from person to person and can be discussed during the initial consultation.</li>
   </ul>
 </p>
-p class="card-text"><strong>Price</strong>
+<p class="card-text"><strong>Price</strong>
   <ul>
     <li>1 on 1 sessions are typically $120 per session, although we do offer packages for those who would like, or need, more sessions.</li>
   </ul>
@@ -78,6 +77,9 @@ p class="card-text"><strong>Price</strong>
 url="/service_foo"
 button="Let's Chat!"
 %}
+
+</div>
+<div class="card-group">
 
 {% include card-begin.html
 card_type="solutions-card" 
@@ -120,14 +122,13 @@ title_txt="Workshops: Hands-on learning and practice."
 %}
 <p class="card-text">Workshops are ideal for groups of 3 or more people because they invorporate hands-on activities under the supervision on an expert. </p>
 <p class="card-text">Workshops also create the ideal atmosphere for conflict resolutions. Do you feel that there's a lack of communication in your organization? Perhaps internal surveys have uncovered employee dissatisfaction? Workshops can help uncover possible solutions.</p>
-  <p class="card-text"><strong>Who is this for?</strong>
-  <ul>
 
-  **Skills Training**: Skills workshops can be stand-alone or a series of skills modules for democratization across teams. Workshops are an efficient way for non-researchers to learn basic skills or get an in-depth understanding of those they currently use. Participants will not only learn how to use a skill, but as importantly, when to use the skill - best-fit methodology. You can perform the skill perfectly, but if it's not appropriate for the project you're working on you will not get the data you need to solve your product/service question and grow your business. 
+<p class="card-text"><strong>Who is this for?</strong>
+<p class="card-text"><strong>Skills Training</strong>: Skills workshops can be stand-alone or a series of skills modules for democratization across teams. Workshops are an efficient way for non-researchers to learn basic skills or get an in-depth understanding of those they currently use. Participants will not only learn how to use a skill, but as importantly, when to use the skill - best-fit methodology. You can perform the skill perfectly, but if it's not appropriate for the project you're working on you will not get the data you need to solve your product/service question and grow your business.</p>
 
-  **Product or Service Management Planning**: Projects live and fail due to planning. Do you have a guideline for planning? Who is included? Are you anticipating things that can derail your project roadmap or do you try to deal with them as they arise? These workshops can teach you how to anticipate and troubleshoot before they occur.
+<p class="card-text"><strong>Product or Service Management Planning</strong>: Projects live and fail due to planning. Do you have a guideline for planning? Who is included? Are you anticipating things that can derail your project roadmap or do you try to deal with them as they arise? These workshops can teach you how to anticipate and troubleshoot before they occur.</p>
 
-  **Internal Solutioning**: Are you surprised by the results of employee satisfaction surveys? Do you notice communication or other issues between teams that need to work together? Internal solutioning workshops bring together individuals in an environment where they feel free to discuss concerns and discover solutions that will be implemented in the short- and long-term.  
+<p class="card-text"><strong>Internal Solutioning</strong>: Are you surprised by the results of employee satisfaction surveys? Do you notice communication or other issues between teams that need to work together? Internal solutioning workshops bring together individuals in an environment where they feel free to discuss concerns and discover solutions that will be implemented in the short- and long-term.</p>
 
   </ul>
 </p>
@@ -151,6 +152,10 @@ title_txt="Workshops: Hands-on learning and practice."
 url="/service_foo"
 button="Let's Get Started!"
 %}
+
+</div>
+<div class="card-group">
+
 
 {% include card-begin.html
 card_type="solutions-card" 

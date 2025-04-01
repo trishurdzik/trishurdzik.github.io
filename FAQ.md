@@ -27,7 +27,7 @@ accordian:
 
     - id: six
       header: When is a training series better than a single workshop, seminar, etc.?
-      content: FOO
+      content: "Sentence One Bar"
 
     - id: seven
       header: Do you perform 360 reviews? (Also known as 360-degree feedback or multi-source feedback)
