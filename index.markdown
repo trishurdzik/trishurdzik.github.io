@@ -3,12 +3,13 @@ layout: default
 title: "Home"
 permalink: "/"
 nav_display: true
-header_title: "Welcome to Critical Path!"
+header_title: "Welcome to Critical Paths!"
+sidebar_headers: false
 carousel:
   slides:
-    - img: /assets/images/wire-frame-1311161_1280.jpg
-      header: Cannot recommend highly enough.
-      caption: The Research series, combined with weekly, one-on-one feedback meetings with my designers, transformed the way we operate.
+    - img: /assets/images/critpaths-logo-banner.png
+      #header: Cannot recommend highly enough.
+      #caption: The Research series, combined with weekly, one-on-one feedback meetings with my designers, transformed the way we operate.
       active: true 
     - img: /assets/images/keyboard-1385706_1280.jpg
       header: Trish is very passionate about helping people. 
@@ -19,8 +20,8 @@ carousel:
 ---
 {% include carousel.html %}
 
-<h2 class="text-center">Critical Path Consulting</h2>
-<h3 class="text-center">Where Human-Centered Solutions Are Found</h3>
+<h2 class="text-center ignore-header">Critical Paths Consulting</h2>
+<h3 class="text-center ignore-header">Where Human-Centered Solutions Are Found</h3>
 
 Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:
 

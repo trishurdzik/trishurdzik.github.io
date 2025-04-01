@@ -3,6 +3,11 @@
 var output = "";
 $(document).ready(function() {
   $("h3,h4").each(function() {
+    if ( $(this).hasClass("ignore-header") ) {
+      // Do nothing
+    } else {
+      $(this).attr('id', $(this).text());
+    }
     if ( $(this).attr('id') != "contents-col" ) {
       $(this).wrapInner('<a name="' + $(this).text() + '" />');
       output += "<li class='my-2'><a class='contents-list-anchor' href='#" + $(this).text() + "'>" + $(this).text() + "</a></li>";    
