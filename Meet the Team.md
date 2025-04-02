@@ -3,6 +3,7 @@ layout: default
 title: Meet the Team
 permalink: /meet the team
 ---
+<img src="assets/images/PXL_20250124_124553387~2.jpg" alt="WIT Logo" class="float-end px-3" style="width: 40%;"/>
 
 ### Meet the Team
 
@@ -10,14 +11,15 @@ We have a great group of experts working to meet your needs.
 
 #### Trish Urdzik, CEO and Senior Researcher 
 
-For over a decade, I’ve had the privilege of working with a diverse array of clients, from non-profits and government agencies to private corporations and academic institutions. I enjoy addressing issues of entrepreneurs and start-ups as much as Fortune 300 companies - maybe more! Their projects span sectors including healthcare, education, business, and community development.
+Trish Urdzik has a M.Sc. in Applied Anthropology, a B.A. with honors in Anthropology, and was an active member of Phi Theta Kappa as well as her undergraduate Honors College. She co-founded RUSH, has chaired and co-lead conference sessions, and has presented her work at multiple professional conferences. 
 
-My extensive work and continuing professional education has taken me to various corners of the globe, allowing me to gain understanding and surface insights firsthand into pain points and opportunities faced by organizations of different sizes, in different communities with different cultures and priorities. I have a passion for understanding the intersections between people, technology, and culture. I leverage that passion to surface insights and recommendations to help organizations and communities navigate complex challenges and achieve their goals..
+Her extensive work and continuing professional education has taken her around the globe, allowing her the privilege of working with a diverse array of clients, such as non-profits, government agencies, tech start-ups, Fortune 500 corporations, and academic institutions. Her clients have been spread across many industries, including healthcare, wearable technology, mobile apps, education, transportation and supply chain, community development, and animal rescue.
+
+ "I have a passion for understanding the intersections between people, technology, and culture. I leverage that passion to surface insights and recommendations to help my clients navigate complex challenges and achieve their goals. I get so much satisfaction from watching the growth that comes as a result of my efforts."
+
+ When not consulting, Trish spends her free time drinking coffee while reading far more books than can possibly be healthy. She also enjoys rewatching scf-fi, fantasy, and horror movies while building terrariums or refinishing thrift store finds.  
   
-#### Alice Monroe, Junior Researcher and Support Staff
 
-Alice is our go-to for dedicated cyber security needs. She brings with her decades in the industry and is an enthusiastic and creative individual who also works as support for the rest of the team.
+#### Alice and Bob Cypher, Support Staff
 
-#### Robbie Johnson, Information Technology Specialist
-
-Like Alice, Robbie has also been working in her field for decades and is a valued member of our team.
+Alice and Bob have been instrumental in teaching cycbersecurity and cryptography concepts since 1978. Whether teaching or training, they make it easier for participants to understand complex scenarios in a clear and understandable way, such as secure communication, key exchange, and digital signatures. Alice and Bob were initially introduced by Rivest, Shamir, and Adleman in their article, "A method for obtaining digital signatures and public-key cryptosystems." 

@@ -3,25 +3,24 @@ layout: default
 title: "Home"
 permalink: "/"
 nav_display: true
-header_title: "Welcome to Critical Paths!"
+header_title: "Welcome to Critical Paths Consulting"
 sidebar_headers: false
 carousel:
   slides:
     - img: /assets/images/critpaths-logo-banner.png
-      #header: Cannot recommend highly enough.
-      #caption: The Research series, combined with weekly, one-on-one feedback meetings with my designers, transformed the way we operate.
+      #header: 
+      #caption: 
       active: true 
-    - img: /assets/images/keyboard-1385706_1280.jpg
-      header: Trish is very passionate about helping people. 
-      caption: Her eyes light up when she's speaking to you and you can just tell she loves her job.
+    - img: /assets/images/trish-urdzik-02.jpg
+      header:  
+      caption: 
     - img: /assets/images/placehold_1200x300.svg
-      header: Client retention is huge when you're a small business owner.
-      caption: Critical Path helped me stregthen my relationship with my clients and show them I care.
+      header: 
+      caption: 
 ---
 {% include carousel.html %}
 
-<h2 class="text-center ignore-header">Critical Paths Consulting</h2>
-<h3 class="text-center ignore-header">Where Human-Centered Solutions Are Found</h3>
+<h2 class="text-center ignore-header">Where Human-Centered Solutions Are Found</h2>
 
 Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:
 
