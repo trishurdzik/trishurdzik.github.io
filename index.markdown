@@ -14,7 +14,7 @@ carousel:
     - img: /assets/images/trish-urdzik-02.jpg
       header:  
       caption: 
-    - img: /assets/images/placehold_1200x300.svg
+    - img: assets/images/trish-urdzik-01.jpg
       header: 
       caption: 
 ---
