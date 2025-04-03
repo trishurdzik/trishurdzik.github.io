@@ -37,7 +37,7 @@ bootstrap:
   header_pages:
    - index.markdown
    - solutions.markdown
-   - format.markdown
+   - personalization.markdown
    - services.markdown
    - about.markdown
    - FAQ.md

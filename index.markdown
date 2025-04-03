@@ -5,6 +5,7 @@ permalink: "/"
 nav_display: true
 header_title: "Welcome to Critical Paths Consulting"
 sidebar_headers: false
+image: /assets/images/critpaths-logo-banner.png
 carousel:
   slides:
     - img: /assets/images/critpaths-logo-banner.png
@@ -18,7 +19,7 @@ carousel:
       header: 
       caption: 
 ---
-{% include carousel.html %}
+
 
 <h2 class="text-center ignore-header">Where Human-Centered Solutions Are Found</h2>
 
