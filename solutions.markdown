@@ -14,11 +14,11 @@ card_type="solutions-card"
 header_txt="Cybersecurity" 
 title_txt="BAR"
 %}
-**Remote work cybersecurity training**
-**Human-centered security policy development**
-**Behavioral risk analysis**
-**Privacy and ethical data use**
-**Secure digital transformation**
+Remote work cybersecurity training
+Human-centered security policy development
+Behavioral risk analysis
+Privacy and ethical data use
+Secure digital transformation
 {% include card-end.html
 url="/service_foo"
 button="Ready!"
@@ -29,10 +29,10 @@ card_type="solutions-card"
 header_txt="Research Ops & Product Management" 
 title_txt="BAR"
 %}
-**Democratization of user experience research for non-researchers**
-**Research Operations**
-**Creation and implementation of research guidelines**
-**Creating project management plans that account for pivots**
+Democratization of user experience research for non-researchers
+Research Operations
+Creation and implementation of research guidelines
+Creating project management plans that account for pivots
 {% include card-end.html
 url="/service_foo"
 button="Ready!"
@@ -43,8 +43,8 @@ card_type="solutions-card"
 header_txt="Artificial Intelligence" 
 title_txt="BAR"
 %}
-**The use of AI and genAI in research**
-**Can AI or genAI replace UX designers and/or developers?**
+The use of AI and genAI in research
+Can AI or genAI replace UX designers and/or developers?
 {% include card-end.html
 url="/service_foo"
 button="Ready!"
@@ -57,8 +57,10 @@ card_type="solutions-card"
 header_txt="Organizational Growth" 
 title_txt="BAR"
 %}
-**Competitive analysis**
-**Benchmarking**
+Competitive analysis
+Benchmarking
+Program evaluation
+360 degree evaluations
 {% include card-end.html
 url="/service_foo"
 button="Ready!"
@@ -69,11 +71,11 @@ card_type="solutions-card"
 header_txt="Employee Retention" 
 title_txt="BAR"
 %}
-**Return to office vs Work from home**
-**Employee satisfaction discovery**
-**Conflict resolution**
-**Encouraging technology adoption**
-**Change management strategy** 
+Return to office vs Work from home
+Employee satisfaction discovery
+Conflict resolution
+Encouraging technology adoption
+Change management strategy
 {% include card-end.html 
 url="/service_foo"
 button="Ready!"
