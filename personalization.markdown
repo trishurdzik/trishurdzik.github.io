@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Personalization
-permalink: /format/
+permalink: /personalization/
 nav_display: true
 header_title: "Personalization"
 sidebar_headers: false
