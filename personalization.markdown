@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Format Personalization
+title: Personalization
 permalink: /format/
 nav_display: true
-header_title: "Format Personalization"
+header_title: "Personalization"
 sidebar_headers: false
 show_top_link: true
 ---
