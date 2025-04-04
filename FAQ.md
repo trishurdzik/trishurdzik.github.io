@@ -5,7 +5,7 @@ sidebar_headers: false
 permalink: /faq
 accordian:
     - id: one
-      header: I'm establishing, or want to establish, a research team at my organization. Can I get guidance on what to do, who to look for, etc? 
+      header: I'm establishing, or want to establish, a research team at my organization. Can I get guidance on what to do, who to look for? 
       content: Of course! We love to help organizations grow and would be honored to be a part of your growth. Scaling up can be overwhelming but it's a sign that your organization is on the right track. Let us help you figure out exactly what your organization needs and the best way to obtain it with the resources you have available. Setting up ethical guidelines, security practices, establishing best practices, and hiring the right people to keep that going can be done by our experts as well. Reach out if you'd like guidance or if you'd like to talk about Critical Path putting all those processes in place for you.
     
     - id: two
@@ -38,7 +38,7 @@ accordian:
       content: Yes! Wehther due to fear of reprisals, ambivilence that their opinions will be given serious consideration, or other reasons, many employees won't give honest opinions on engagement surveys or feedback regarding leadership at their companies. We pride ourselves on ethical practices and ensuring employee anonymity and confidentiality is an crucial part of that. Using your input, Critical Path will use best-fit methods to determine how your feedback should be collected. Then you just leave it to us to collect the needed information and report findings, which include our recommendations moving forward. 
 
 ---
-### Have questions? We have answers!
+# Have questions? We have answers!
 
 {% include accordian-one.html %}
 

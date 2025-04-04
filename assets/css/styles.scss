@@ -22,13 +22,26 @@ h1 {
   font-size: 300;
 }
 
-h2, h3 {
+h2 {
   font-family: "Tulpen One", sans-serif;
   font-weight: 400;
   font-style: bold;
   font-size: 300%;
 }
 
+h3 {
+  font-family: "Tulpen One", sans-serif;
+  font-weight: 400;
+  font-style: bold;
+  font-size: 200%;
+}
+
+  h5 {
+  font-family: "Honk", sans-serif;
+  font-weight: 200;
+  font-style: regular;
+  font-size: 200%;
+}
 
 #contents-list-div {
   position: sticky;

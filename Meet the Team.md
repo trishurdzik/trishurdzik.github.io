@@ -11,13 +11,11 @@ We have a great group of experts working to meet your needs.
 
 #### Trish Urdzik, CEO and Senior Researcher 
 
-Trish Urdzik has a M.Sc. in Applied Anthropology, a B.A. with honors in Anthropology, and was an active member of Phi Theta Kappa as well as her undergraduate Honors College. She co-founded RUSH, has chaired and co-lead conference sessions, and has presented her work at multiple professional conferences. 
-
-Her extensive work and continuing professional education has taken her around the globe, allowing her the privilege of working with a diverse array of clients, such as non-profits, government agencies, tech start-ups, Fortune 500 corporations, and academic institutions. Her clients have been spread across many industries, including healthcare, wearable technology, mobile apps, education, transportation and supply chain, community development, and animal rescue.
+Trish Urdzik's extensive work and continuing professional education has taken her around the globe, allowing her the privilege of working with a diverse array of clients, such as non-profits, government agencies, tech start-ups, Fortune 500 corporations, and academic institutions. Her clients have been spread across many industries, including healthcare, wearable technology, mobile apps, education, transportation and supply chain, community development, and animal rescue.
 
  "I have a passion for understanding the intersections between people, technology, and culture. I leverage that passion to surface insights and recommendations to help my clients navigate complex challenges and achieve their goals. I get so much satisfaction from watching the growth that comes as a result of my efforts."
 
- When not consulting, Trish spends her free time drinking coffee while reading far more books than can possibly be healthy. She also enjoys rewatching scf-fi, fantasy, and horror movies while building terrariums or refinishing thrift store finds.  
+Trish has a M.Sc. in Applied Anthropology and completed her B.A. in Anthropology with honors. When not consulting, Trish spends her free time drinking coffee while reading far more books than can possibly be healthy. She also enjoys rewatching scf-fi, fantasy, and horror movies while building terrariums or refinishing thrift store finds.  
   
 
 #### Alice and Bob Cypher, Support Staff

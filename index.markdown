@@ -5,7 +5,7 @@ permalink: "/"
 nav_display: true
 header_title: "Welcome to Critical Paths Consulting"
 sidebar_headers: false
-image: /assets/images/critpaths-logo-banner.png
+image: /assets/images/critpaths-logo.png
 carousel:
   slides:
     - img: /assets/images/critpaths-logo-banner.png
@@ -21,16 +21,68 @@ carousel:
 ---
 
 
-<h2 class="text-center ignore-header">Where Human-Centered Solutions Are Found</h2>
+<h5 class="text-center ignore-header">Where Human-Centered Solutions Are Found</h5>
 
-Choosing the right consultant can make all the difference. Here are a few reasons why clients choose to work with me:
+---
 
-**Expertise**: With a solid academic foundation and over a decade of practical, applied experience, I am able to leverage both industry best practices as well as the myriad of skills in my toolbox to create best-fit plans for the project at hand. Using this experience, I  am able to pivot quickly and smoothly with changing stakeholder needs.
+At **Critical Paths**, we know the best solutions aren’t hiding in spreadsheets or buried in code—they come from understanding *people*. Founded by an applied anthropologist with years of field experience (think of them as your real-world strategy guide), we specialize in **human-centered consulting** that goes beyond theory. Whether you’re troubleshooting workplace culture, designing a new system, or rolling out change, we help businesses, organizations, and communities create strategies that actually work—**in real life, not just on paper**. 
 
-**Tailored Solutions**: No two projects are the same. I work closely with clients to develop customized strategies that address their specific needs, ensuring that the recommendations produced are relevant, impactful, and, most importantly, feasible.
+### **Why Applied Anthropologists Are the Secret Weapon Behind Human-Centered Solutions**  
+_(Now with extra retro flavor—because insight never goes out of style.)_ 
 
-**Holistic Perspective**: My anthropological lens ensures that all solutions are grounded in a deep understanding of the ways in which historical, economic, cultural, and social contexts affect human behavior and lead to the usage (or not) of client policies, products, or services.
+Remember when you had to blow into a Nintendo cartridge just to get the game to load? Or when your Walkman chewed up your favorite mixtape, but you still kept listening? We get it—**real-life systems are messy**, and so are the people who use them. That’s exactly why **applied anthropologists** are uniquely trained for human-centered work.
 
-**Commitment to Positive, Ethical Impact**: I am dedicated to making a positive impact through my work, whether it’s improving user experiences, informing policy, or fostering community development while adhering to the highest ethical standards. These standards are based on industry best practices established by the [Society for Applied Anthropology Statement of Ethics and Professional Responsibilities](https://www.appliedanthro.org/annual-meeting/meeting-information/statement-ethics).
+We’re not your typical consultants with cookie-cutter playbooks. We’re trained to understand **real human behavior** in all its glitchy, creative, wonderful chaos. Whether it's designing a better employee training or making sure your new platform actually *works* for the people using it, we dig deep—like finding the secret level on your favorite arcade game.
 
-**Collaborative Spirit**: I work closely with stakeholders, their team, and the communities with which they work to foster an environment of trust and mutual respect.
+---
+
+### What Makes Applied Anthropologists So Effective?  
+
+#### 1. **We Watch for What People Do, Not What They Say They Do**  
+You don’t beat a game by reading the manual—you pick up the controller and learn how players actually move, jump, and mess up along the way. That’s how we approach research.  
+
+**Example:** A company thinks everyone is following security protocol… but then we observe someone writing their password on a Post-it and sticking it to their monitor. We look for the real-world behaviors behind the policy screens—because **seeing is understanding**.  
+
+---
+
+#### 2. **We Decode Human Culture***  
+Every company, team, or community has its own hidden rules—kind of like finding that cheat code that gives you 30 extra lives. We study those rules (spoken and unspoken) so that our strategies actually make sense to the people they’re meant for.  
+
+**Example:** Trying to apply the same training in both a laid-back startup and a high-pressure healthcare org? That’s like expecting a Game Boy cartridge to work in a Sega Genesis. Doesn’t compute. We tailor the experience to *your* unique culture.  
+
+---
+
+#### 3. **We Make Research That’s Fun to Use (Not Like Clunky Old Software)**  
+We’re not here to deliver boring reports that feel like a manual for a fax machine. We turn our findings into **engaging, useful stories and visuals** that help people understand what’s going on and how to improve it.  
+
+**Example:** Instead of just saying, “Users are disengaged,” we’ll say:  
+> “Imagine trying to play *Tetris* with invisible blocks. That’s what your onboarding feels like to new employees.”  
+Boom. Instant clarity.  
+
+---
+
+#### 4. **We Build With You—Like Co-Op Mode, Not Single Player**  
+We don’t swoop in, drop some jargon, and disappear. We **work alongside your team** to co-create solutions that are grounded in your actual needs*.  
+
+**Example:** Designing a new workflow? We prototype, test with your team, fix what doesn’t work, and level up together until it feels just right.  
+
+---
+
+### **The Applied Anthropologist Advantage: Leveling Up Human-Centered Design** 🎮✨  
+
+We don’t just observe people—we partner with businesses, organizations, and communities to **create real-world solutions** that are as practical as they are people-focused. No guesswork. No off-the-shelf fixes. Just deep insights, co-designed strategies, and outcomes that *actually work* in everyday environments.
+
+**Need to boost your cybersecurity training?** We’ll find the hidden habits, confusion points, and workarounds your team actually uses—then build training they’ll *remember and apply.*  
+**Launching a new app or platform?** We’ll help design it with real users in mind, so it feels intuitive, not frustrating—like your favorite classic game that’s easy to pick up, but hard to put down.  
+**Rolling out new workplace policies?** We’ll dig into your organizational culture to make sure the rollout fits your people, not just the playbook.
+
+By focusing on **actual human behavior**, cultural dynamics, and collaborative design, applied anthropologists uncover insights that lead to smarter, more effective, and more sustainable outcomes.
+
+##### Ready to hit “Start” on your next human-centered project? Let’s talk.
+
+---
+
+##### **Critical Paths is Committed to Positive, Ethical Impact**: 
+
+We are dedicated to making a positive impact through our work while adhering to the highest ethical standards. These standards are the industry best practices established by the [Society for Applied Anthropology Statement of Ethics and Professional Responsibilities](https://www.appliedanthro.org/annual-meeting/meeting-information/statement-ethics).
+
