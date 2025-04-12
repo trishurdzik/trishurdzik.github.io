@@ -42,6 +42,7 @@ bootstrap:
    - about.markdown
    - FAQ.md
    - contact.markdown
+   - meet_the_team.markdown
 
   # generate social links in footer
   social_links:

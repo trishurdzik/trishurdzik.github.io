@@ -1,16 +1,23 @@
-<footer class="container-fluid footer fs-6">
+<footer class="container-fluid footer fs-6 p-4 mt-3">
   
     <div class="row">
-      <div class="col-2"></div>
 
-       <div class="col-4">
-        <strong>Navigation</strong>
+      <div class="col">
         <div class="row">
-          <div class="col">
+          <div class="col text-end">
+            <strong>Navigation</strong>
+        
             <ul class="footer-nav" style="list-style-type: none;" >
               {% include nav-list.html -%}
             </ul>
           </div>
+          
+          <div class="col-4 text-center">
+            <a class="navbar-brand" href="{{ "/" | relative_url }}">
+              <img class="" src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" style="max-width: 70%;" />
+            </a>
+          </div>
+          
           <div class="col">
             <ul class="footer-nav" style="list-style-type: none;" >
               <li class="sitemap">
@@ -23,11 +30,6 @@
           </div>
         </div>
       </div>
-
-      <div class="col-4 text-center">
-        <img class="" src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" style="max-width: 85%;" />
-      </div>
-      <div class="col-2"></div>
     </div>
     <div class="row attribution">
       <div class="col">
@@ -37,6 +39,4 @@
         </div>
       </div>
     </div>
-    
- 
 </footer>

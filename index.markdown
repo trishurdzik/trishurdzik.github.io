@@ -36,23 +36,25 @@ We’re not your typical consultants with cookie-cutter playbooks. We’re train
 
 ---
 
-### What Makes Applied Anthropologists So Effective?  
+##### What Makes Applied Anthropologists So Effective?
 
-#### 1. **We Watch for What People Do, Not What They Say They Do**  
+### **We Watch for What People Do, Not What They Say They Do**  
+
 You don’t beat a game by reading the manual—you pick up the controller and learn how players actually move, jump, and mess up along the way. That’s how we approach research.  
 
 **Example:** A company thinks everyone is following security protocol… but then we observe someone writing their password on a Post-it and sticking it to their monitor. We look for the real-world behaviors behind the policy screens—because **seeing is understanding**.  
 
 ---
 
-#### 2. **We Decode Human Culture***  
+### **We Decode Human Culture**  
+
 Every company, team, or community has its own hidden rules—kind of like finding that cheat code that gives you 30 extra lives. We study those rules (spoken and unspoken) so that our strategies actually make sense to the people they’re meant for.  
 
 **Example:** Trying to apply the same training in both a laid-back startup and a high-pressure healthcare org? That’s like expecting a Game Boy cartridge to work in a Sega Genesis. Doesn’t compute. We tailor the experience to *your* unique culture.  
 
 ---
 
-#### 3. **We Make Research That’s Fun to Use (Not Like Clunky Old Software)**  
+### **We Make Research That’s Fun to Use (Not Like Clunky Old Software)**  
 We’re not here to deliver boring reports that feel like a manual for a fax machine. We turn our findings into **engaging, useful stories and visuals** that help people understand what’s going on and how to improve it.  
 
 **Example:** Instead of just saying, “Users are disengaged,” we’ll say:  
@@ -61,7 +63,7 @@ Boom. Instant clarity.
 
 ---
 
-#### 4. **We Build With You—Like Co-Op Mode, Not Single Player**  
+### **We Build With You—Like Co-Op Mode, Not Single Player**  
 We don’t swoop in, drop some jargon, and disappear. We **work alongside your team** to co-create solutions that are grounded in your actual needs*.  
 
 **Example:** Designing a new workflow? We prototype, test with your team, fix what doesn’t work, and level up together until it feels just right.  
