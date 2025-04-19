@@ -36,7 +36,7 @@ h3 {
   font-size: 200%;
 }
 
-  h5 {
+h5 {
   font-family: "Honk", sans-serif;
   font-weight: 200;
   font-style: regular;
@@ -52,6 +52,12 @@ h3 {
 
 #contents-list {
   list-style-type: none;  
+}
+
+p, label {
+  font-family: "Genos", sans-serif;
+  font-style: normal;
+  font-size: 115%;
 }
 
 .card, .accordian, .accordian-header, .accordian-body { 
