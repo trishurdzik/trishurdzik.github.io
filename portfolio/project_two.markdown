@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Foo
+title: Project Bar
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 permalink: /portfolio/project_two
 image: https://placehold.co/1200x400/000/png

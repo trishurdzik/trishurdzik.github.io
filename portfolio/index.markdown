@@ -6,7 +6,8 @@ image: https://placehold.co/1200x300/000000/png
 permalink: /portfolio/
 sidebar_headers: false
 ---
-<div class="">
+
+<div class="card-group">
 {% assign pages = site.pages %}
 {% for page in pages %}
 {% if page.url contains 'portfolio' %}
