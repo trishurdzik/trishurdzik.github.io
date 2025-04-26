@@ -163,6 +163,17 @@ a.contents-list-anchor {
   text-decoration: none;
 }
 
+
+.portfolio-card {
+  margin : 10px;
+  background-color: #008885 !important;
+  border-radius: 10px 10px;
+  margin: 15px;
+  width: 40%;
+}
+
+
+
 .rubik-glitch-regular {
   font-family: "Rubik Glitch", serif;
   font-weight: 400;
@@ -204,6 +215,9 @@ a.contents-list-anchor {
 div.git_build_data, div.git_build_data span {
   color: {{ site.git_build_data_color }} !important;
 }
+
+
+
 
 
 @media screen and (max-width: 800px) and (orientation: portait) {

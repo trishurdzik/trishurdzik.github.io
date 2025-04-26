@@ -1,0 +1,42 @@
+<footer class="container-fluid footer">
+  
+    <div class="row">
+      <div class="col-2"></div>
+
+       <div class="col-4">
+        <strong>Navigation</strong>
+        <div class="row">
+          <div class="col">
+            <ul class="footer-nav" style="list-style-type: none;" >
+              {% include nav-list.html -%}
+            </ul>
+          </div>
+          <div class="col">
+            <ul class="footer-nav" style="list-style-type: none;" >
+              <li class="sitemap">
+                <a class="nav-link" href="{{ '/sitemap.xml' | relative_url }}"> <i class="bi bi-diagram-3"></i> <span>Sitemap</span></a>
+              </li>
+              <li class="feed-subscribe">
+                <a class="nav-link" href="{{ 'feed.xml' | relative_url }}"> <i class="bi bi-rss-fill"></i> <span>Subscribe</span></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-4 text-center">
+        <img class="" src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" style="max-height: 60%; max-width: 85%;" />
+      </div>
+      <div class="col-2"></div>
+    </div>
+    <div class="row attribution">
+      <div class="col">
+        <div class="text-center">Site by <a class="nav-link" href="https://hepaestus.com" target="_blank"><img style="height: 23px;" src="/assets/images/hepaestus_logo_smallest.png"/>Hepaestus Consulting</a></div>
+        <div class="text-center">
+          {% include git_build_data.html %}    
+        </div>
+      </div>
+    </div>
+    
+ 
+</footer>
