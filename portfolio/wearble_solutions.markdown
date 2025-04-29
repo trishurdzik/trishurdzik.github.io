@@ -1,25 +1,30 @@
 ---
 layout: default
-title: From field teesting to FDA pathways: Engineering wearable solutions for emergency medicine.
-abstract: "Led the usability testing and human-centered redesign of a novel wearable junctional tourniquet for emergency medical use. Real-world simulations, interviews, focus groups, and a Kano survey drove rapid feature refinement and design decisions. Final deliverables included FDA-aligned recommendations for clinical testing, highlighting expertise in human factors engineering, user research, and medical device innovation."
-permalink: /portfolio/project_one
-image: https://assets/armr_battlefield_image_1.png
-card_image: https://assets/ARMR_battlefield_image3.png
+title: 'Wearable Solutions Study'
+header_title: 'Engineering wearable solutions for emergency medicine'
+abstract: "Usability testing and human-centered redesign of a novel wearable junctional tourniquet for emergency medical use. Real-world simulations, interviews, focus groups, and a Kano survey drove rapid feature refinement and design decisions"
+image: /assets/armr_battlefield_image_1.png
+card_image: /assets/ARMR_battlefield_image3.png
+sidebar_headers: false
+nav_display: false
 ---
 
 ## Executive Summary
+
 This project focused on the data-driven development and evaluation of a novel wearable junctional tourniquet designed for emergency medical scenarios. The primary objective was to conduct comprehensive data collection and usability testing within an environment simulating real-world conditions. Utilizing a mixed-methods approach, we gathered feedback through structured usability testing, participant interviews, focus groups, and a Kano survey to systematically assess user needs, device performance, and feature desirability. The results directly informed critical design decisions, leading to the inclusion or exclusion of specific features to optimize user experience and operational effectiveness. Furthermore, detailed recommendations were developed to guide the next steps toward achieving FDA approval criteria for human clinical testing. This project demonstrated expertise in human factors engineering, usability testing, medical device development, and regulatory strategy alignment.
 
 ## The Process: From Ideas to Execution
+
 ARMR Systems, Inc. is a tech start-up which created a wearable junctional tourniquet for use by military and law enforcement personnel. At the time of this study there were no wearable or junctional tourniquets approved by the FDA. Traditional tourniquets cannot be effectively applied to injuries at the junctions of the torso (indicated by the red dots), which can be fatal in under 3 minutes. ARMR had never worked with a UX researcher or completed any human factors or usability studies prior to my involvement, which is critical for medical devices which need FDA approval.
 
-image: https://assets/junctionaltourniquetimagewithreddots.png 
+<img src="/assets/images/junctional_tourniquet_image_with_red_dots.png" class="img-fluid float-start m-2"/>
 
 After many in-depth discussions with stakeholders, who were not themselves current or former law enforcement or military personnel, we divided the areas of research into two distinctive parts.
 1.Exploration – I wanted to better understand the expectations, pain points, and must-haves of likely users.
 2.Validation – I needed to validate the device design under circumstances as similar as possible to real-life situations with participants who fit, as close as possible, the targeted demographic.
 
-### Research Approach and Chronology
+### **Research Approach and Chronology**
+
 I worked closely with key stakeholders – a team of only three people, the CEO, CIO, and the designer who iterated each wearable by hand. My role included:
 
 Defining the Research Questions – Stakeholder questions were narrowed down to a feasible scope for the time allotted.
@@ -33,27 +38,28 @@ Defining the Research Questions – Stakeholder questions were narrowed down to 
 **Quantitative Analysis** – Users were grouped according to background experience: law enforcement, active duty military and reservists, law enforcement, and civilians. Analysis of video, interview, and focus group transcripts was conducted to determine if user answers varied based on background, amount of time served/serving, and users personal opinions regarding wearable technology and technological advancements in general.
 
 ### Defining Key Usability Questions
-    • Movement
-        ◦ Can the user conduct a variety of movements without restriction?
-        ◦ Will the tourniquet be comfortable enough to be worn all day in addition to their normal gear?
-    • Unanticipated Problems
-        ◦ What is the user learning curve? How long does it take a user to learn how to properly apply the tourniquet?
-        ◦ What factors get in the way of proper application?
-    • Likelihood of Adoption
-        ◦ Does it give the users a feeling of confidence?
-        ◦ Does it give users a sense of safety?
-        ◦ What things factor into whether or not a user will fully adopt the device?
+
+* Movement
+  * Can the user conduct a variety of movements without restriction?
+  * Will the tourniquet be comfortable enough to be worn all day in addition to their normal gear?
+* Unanticipated Problems
+  * What is the user learning curve? How long does it take a user to learn how to properly apply the tourniquet?
+  * What factors get in the way of proper application?
+* Likelihood of Adoption
+  * Does it give the users a feeling of confidence?
+  * Does it give users a sense of safety?
+  * What things factor into whether or not a user will fully adopt the device?
 
 ### User Testing in a Simulated Battlefield
+
 I conducted the battlefield simulation during the summer at a paintball field in Virginia, USA. The participants wore the device for seven hours, both with and without body armor. Visual documentation included photos, GoPros, handheld recorders, drone footage, and participant observation. 
 
 The footage  and notes taken was reviewed to determine the average length of time it took for users to proficiently apply the device to both themselves and a buddy. I also compared users statements concerning perceived usage to their actual usage in the field.
 
 ### Assumptions and Constraints
+
 This project was planned to take place in the Greater Boston, Massachusetts area, however, although the research began in Boston, ARMR moved to Baltimore, Maryland during the course of the study. In addition, all participants were from different states, so most study interviews were conducted remotely. I flew to Baltimore in order to conduct the usability testing and subsequent focus group.
 
 ### Outcome
-I surfaced many valuable insights regarding the likelihood of adoption of this technology, specific safety pain points, and many device details that were loved by most or all of the participants. I made specific recommendations regarding device components, knowledge-sharing, and suggestions for further testing. 
-image: https://assets/ARMR_recommendations.jpg
 
-ARMR Systems, Inc. incorporated the component suggestions as well as the recommendation about how to educate individuals on appropriate device usage. While this was the end of my work with the organization, they are continuing to work toward the specific testing, iterating, and financing needed for FDA approval.  
+I surfaced many valuable insights regarding the likelihood of adoption of this technology, specific safety pain points, and many device details that were loved by most or all of the participants. I made specific recommendations regarding device components, knowledge-sharing, and suggestions for further testing. <img src="/assets/images/ARMR_recommendations.jpg" class="img-fluid m-2"/> ARMR Systems, Inc. incorporated the component suggestions as well as the recommendation about how to educate individuals on appropriate device usage. While this was the end of my work with the organization, they are continuing to work toward the specific testing, iterating, and financing needed for FDA approval.  

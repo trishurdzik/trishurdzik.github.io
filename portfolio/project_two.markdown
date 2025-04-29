@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Project Bar
+title: Project FOO 
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-permalink: /portfolio/project_two
 image: https://placehold.co/1200x400/000/png
 card_image: https://placehold.co/300x200/000/png
+nav_display: false
 ---
 
 ## This Full Project Description
