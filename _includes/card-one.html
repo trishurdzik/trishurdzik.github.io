@@ -2,10 +2,12 @@
     <img src="{{ include.card_image }}" class="card-img-top" alt="{{ include.image_alt }}">
     <!-- h3 class="card-header">{{ include.header_txt }}</h3 -->
     <div class="card-body">
-        <a class="text-dark" href="{{ include.url }}"><h4 class="card-title">{{ include.title_txt }}</h4></a>
+        <a class="text-dark" href="{{ include.url }}">
+            <h4 class="card-title">{{ include.title_txt }}</h4>
+        </a>
         <p class="card-text">{{ include.card_txt }}</p>
     </div>
-    <div class="card-footer">
+    <!-- div class="card-footer">
         <a href="{{ include.url }}" class="btn btn-primary">{{ include.button }}</a>
-    </div>
+    </div -->
 </div>
