@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Discovery Research for Boston Bike Trails App"
-header_title: "Discovery Research for Boston Bike Trails App"
+header_title: "What Happens When a Passion Project Is Forced Onto the Market?"
 image: '/assets/images/beacon-hill-leaning-bike.jpg'
 card_image: '/assets/images/beacon-hill-leaning-bike.jpg'
 abstract: "This project highlights the critical role of market research in guiding strategic decisions in app development and the potential consequences of not heeding expert recommendations. Read to end for my reflections."
