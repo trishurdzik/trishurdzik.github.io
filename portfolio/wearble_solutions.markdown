@@ -3,8 +3,8 @@ layout: default
 title: 'Wearable Solutions Study'
 header_title: 'Engineering Wearable Solutions for Emergency Medicine'
 abstract: "Usability testing and human-centered redesign of a novel wearable junctional tourniquet for emergency medical use. Real-world simulations, interviews, focus groups, and a Kano survey drove rapid feature refinement and design decisions"
-image: "/assets/armr_battlefield_image_1.png"
-card_image: "/assets/ARMR_battlefield_image3.png"
+image: /assets/images/ARMR_battlefield_image3.png
+card_image: /assets/images/armr_battlefield_image_1.png
 sidebar_headers: false
 nav_display: false
 ---
@@ -19,17 +19,15 @@ The results directly informed critical design decisions, leading to the inclusio
 
 ARMR Systems, Inc. is a tech start-up which created a wearable junctional tourniquet for use by military and law enforcement personnel. At the time of this study there were no wearable or junctional tourniquets approved by the FDA. Traditional tourniquets cannot be effectively applied to injuries at the junctions of the torso (indicated by the red dots), which can be fatal in under 3 minutes. ARMR had never worked with a UX researcher or completed any human factors or usability studies prior to my involvement, which is critical for medical devices which need FDA approval.
 
-<img src="/assets/images/junctional_tourniquet_image_with_red_dots.png" class="img-fluid float-start m-2"/>
-
 After many in-depth discussions with stakeholders, who were not themselves current or former law enforcement or military personnel, we divided the areas of research into two distinctive parts.
 
 1.Exploration – I wanted to better understand the expectations, pain points, and must-haves of likely users.
 
 2.Validation – I needed to validate the device design under circumstances as similar as possible to real-life situations with participants who fit, as close as possible, the targeted demographic.
 
-
-
 ## Research Approach and Chronology
+
+<img src="/assets/images/junctional_tourniquet_image_with_red_dots.png" class="img-fluid float-start mx-4"/>
 
 I worked closely with key stakeholders – a team of only three people, the CEO, CIO, and the designer who iterated each wearable by hand. My role included:
 
