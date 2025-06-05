@@ -70,7 +70,7 @@ We don’t swoop in, drop some jargon, and disappear. We **work alongside your t
 
 ---
 
-### **The Applied Anthropologist Advantage: Leveling Up Human-Centered Design** 🎮✨  
+### **The Applied Anthropologist Advantage: Leveling Up Human-Centered Design**
 
 We don’t just observe people—we partner with businesses, organizations, and communities to **create real-world solutions** that are as practical as they are people-focused. No guesswork. No off-the-shelf fixes. Just deep insights, co-designed strategies, and outcomes that *actually work* in everyday environments.
 
@@ -82,9 +82,15 @@ By focusing on **actual human behavior**, cultural dynamics, and collaborative d
 
 ##### Ready to hit “Start” on your next human-centered project? Let’s talk.
 
+<div class="d-grid gap-2 col-6 mx-auto">
+<a class="btn btn-warning" href="{{ '/contact/#lets-make-it-happen' | relative_link }}" target="_blank">
+  <img style="max-width:20%;" src="/assets/images/moving_images/press start button.gif" class="img relative" /> 
+</a>
+</div>
+
 ---
 
 ##### **Critical Paths is Committed to Positive, Ethical Impact**: 
 
-We are dedicated to making a positive impact through our work while adhering to the highest ethical standards. These standards are the industry best practices established by the [Society for Applied Anthropology Statement of Ethics and Professional Responsibilities](https://www.appliedanthro.org/annual-meeting/meeting-information/statement-ethics).
+We are dedicated to making a positive impact through our work while adhering to the highest ethical standards and best practices established by the [Society for Applied Anthropology Statement of Ethics and Professional Responsibilities](https://www.appliedanthro.org/annual-meeting/meeting-information/statement-ethics).
 
