@@ -5,12 +5,10 @@ permalink: /about/
 show_top_link: true
 ---
 
-<img src="/assets/images/Trish_About_pic.jpg" alt="WIT Logo" class="float-end px-3" style="width: 40%;"/>
-
-
+<img src="/assets/images/Trish_About_pic_01.jpg" alt="WIT Logo" class="float-end px-3" style="width: 40%;"/>
 
 Critical Paths was founded to meet our clients where they are. We know that there are inequalities in access to opportunities, which is why we  focus on helping small business owners, start-ups, and non-profits reach their potential, anywhere in the world.
- 
+
 Our passion is meeting the needs of our client, no matter their size, industry, or other factor. At the end of each project, we give our clients feasible data-informed, human-centered recommendations for growth. We are able to also perform Research Operations roles, create guides for democratization implementation, and conduct skills and ethics trainings. Check out our Solutions page and if you don't see something offered that you need, we can work with you to create it.
 
 Take your next step to success with Critical Paths, where human-centered solutions are found.
