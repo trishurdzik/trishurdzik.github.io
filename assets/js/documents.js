@@ -1,5 +1,5 @@
 ---
-date: 2024-06-14 00:00:00
+date: 2025-07-11 00:00:00
 author: Pete
 search_exclude: true
 ---
@@ -11,22 +11,22 @@ search_exclude: true
 // This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 //
 
-var documents = [{% for page in site.pages %}{% if page.exclude_search or page.url contains '.xml' or page.url contains 'assets' or page.url contains '404' or page.url contains 'blog' %} {% else %} {
+var documents = [{% for page in site.pages %}{% if page.exclude_search or page.url contains '.xml' or page.url contains 'assets' or page.url contains '.txt' or page.url contains '404' or page.url contains 'blog' %} {% else %} {
   "if": "one",
   "id": "{{ counter }}",
-  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "url": "{{ site.url | append: site.baseurl | append: page.url | absolute_url }}",
   "title": "{{ page.title }}",
   "body": "{{ page.content | markdownify | strip_html | replace: '`', ' ' | replace: double_quote, ' ' | normalize_whitespace }}"{% assign counter = counter | plus: 1 %}
 },{% endif %}{% endfor %}{% for page in site.without-plugin %}{
   "if": "two",
   "id": "{{ counter }}",
-  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "url": "{{ site.url | append: site.baseurl | append: page.url | absolute_url }}",
   "title": "{{ page.title }}",
   "body": "{{ page.content | markdownify | strip_html | replace: '`', ' ' | replace: double_quote, ' ' | normalize_whitespace }}"{% assign counter = counter | plus: 1 %}
 },{% endfor %}{% for page in site.posts %}{
   "if": "three",
   "id": "{{ counter }}",
-  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "url": "{{ site.url | append: site.baseurl | append: page.url | absolute_url }}",
   "title": "{{ page.title }}",
   "body": "{{ page.date | date: ' %Y/%m/%d' }} - {{ page.content | markdownify | strip_html |  replace: '`', ' ' | replace: double_quote, ' ' | normalize_whitespace }}"{% assign counter = counter | plus: 1 %}
 } {% if forloop.last %} {% else %}, {% endif %} {% endfor %}];
