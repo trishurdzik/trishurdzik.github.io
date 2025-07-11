@@ -4,7 +4,7 @@ author:
   #email: 'trish@trishurdzik.com'
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "criticalpaths.net"
+url: "https://criticalpaths.net"
 excerpts:
   # Displays or hides post excerpts from home layout post listing.
   show: true
