@@ -88,14 +88,14 @@ a.contents-list-anchor {
 }
 
 h1, h2 {
-  font-family: "Honk", serif;
+  font-family: "Babylonica", serif;
   font-size: xx-large !important; 
   font-weight: 600;
   font-style: bold;
 }
 
 h3, h4 {
-  font-family: "Tulpen One", serif;
+  font-family: "Homenaje", serif;
   font-weight: 400;
   font-style: normal;  
 }
@@ -107,7 +107,7 @@ h3, h4 {
 }
 
 h5, h6 {
-  font-family: "Robotica", serif;
+  font-family: "Tulpin One", serif;
   font-weight: 600;
   font-style: normal;
 }
