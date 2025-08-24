@@ -17,7 +17,7 @@ date_format: "%y-%m-%d %H:%M:%S %z"
 iso_date_format: "%Y-%m-%dT%H:%M:%S%:z"
 search_enabled: true
 git_build_data_color: '#008885'
-background_color: '#472C4C'
+background_color: '#033500'
 foreground_color: '#ffffff'
 google_analytics: false
 google_tag_manager: 'GTM-XXXXXXX'
