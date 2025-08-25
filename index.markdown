@@ -21,16 +21,15 @@ carousel:
 ---
 
 
-<h5 class="text-center ignore-header">Where Human-Centered Solutions Are Found</h5>
+<h1 class="text-center ignore-header">Guidence for Every Journey</h1>
 
 ---
 
-At **Critical Paths**, we know the best solutions aren’t hiding in spreadsheets or buried in code—they come from understanding *people*. Founded by an applied anthropologist with years of field experience (think of them as your real-world strategy guide), we specialize in **human-centered consulting** that goes beyond theory. Whether you’re troubleshooting workplace culture, designing a new system, or rolling out change, we help businesses, organizations, and communities create strategies that actually work—**in real life, not just on paper**. 
+At **Critical Paths**, we know the best solutions aren’t hiding in spreadsheets or buried in code—they come from understanding *people*. Founded by an applied anthropologist with years of field experience, we specialize in **human-centered consulting** that goes beyond theory. Whether you’re troubleshooting workplace culture, designing a new system, or rolling out change, we help businesses, organizations, and communities create strategies that actually work—**in real life, not just on paper**. 
 
 ### **Why Applied Anthropologists Are the Secret Weapon Behind Human-Centered Solutions**  
-_(Now with extra retro flavor—because insight never goes out of style.)_ 
 
-Remember when you had to blow into a Nintendo cartridge just to get the game to load? Or when your Walkman chewed up your favorite mixtape, but you still kept listening? We get it—**real-life systems are messy**, and so are the people who use them. That’s exactly why **applied anthropologists** are uniquely trained for human-centered work.
+We get it—**real-life is messy**. That’s exactly why **applied anthropologists** are uniquely trained for human-centered work.
 
 We’re not your typical consultants with cookie-cutter playbooks. We’re trained to understand **real human behavior** in all its glitchy, creative, wonderful chaos. Whether it's designing a better employee training or making sure your new platform actually *works* for the people using it, we dig deep—like finding the secret level on your favorite arcade game.
 
@@ -40,7 +39,7 @@ We’re not your typical consultants with cookie-cutter playbooks. We’re train
 
 ### **We Watch for What People Do, Not What They Say They Do**  
 
-You don’t beat a game by reading the manual—you pick up the controller and learn how players actually move, jump, and mess up along the way. That’s how we approach research.  
+We get it - people are complicated. Sometimes even they aren't concious of their habits or ways of thinking. We learn how people actually think, work, and mess up along the way. That’s how we approach research.  
 
 **Example:** A company thinks everyone is following security protocol… but then we observe someone writing their password on a Post-it and sticking it to their monitor. We look for the real-world behaviors behind the policy screens—because **seeing is understanding**.  
 
@@ -48,14 +47,14 @@ You don’t beat a game by reading the manual—you pick up the controller and l
 
 ### **We Decode Human Culture**  
 
-Every company, team, or community has its own hidden rules—kind of like finding that cheat code that gives you 30 extra lives. We study those rules (spoken and unspoken) so that our strategies actually make sense to the people they’re meant for.  
+Every company, team, or community has its own unspoken rules or subculture. We study those rules (spoken and unspoken) so that our strategies actually make sense to the people they’re meant for.  
 
-**Example:** Trying to apply the same training in both a laid-back startup and a high-pressure healthcare org? That’s like expecting a Game Boy cartridge to work in a Sega Genesis. Doesn’t compute. We tailor the experience to *your* unique culture.  
+**Example:** Trying to apply the same training in both a laid-back startup and a high-pressure healthcare org? It's simply not going to work. We tailor the experience to *your* unique culture.  
 
 ---
 
-### **We Make Research That’s Fun to Use (Not Like Clunky Old Software)**  
-We’re not here to deliver boring reports that feel like a manual for a fax machine. We turn our findings into **engaging, useful stories and visuals** that help people understand what’s going on and how to improve it.  
+### **We Make Research Findings and Recommendations Interesting**  
+We’re not here to deliver boring reports. We turn our findings into **engaging, useful stories and visuals** that help people understand what’s going on and how to improve it.  
 
 **Example:** Instead of just saying, “Users are disengaged,” we’ll say:  
 > “Imagine trying to play *Tetris* with invisible blocks. That’s what your onboarding feels like to new employees.”  
@@ -63,7 +62,7 @@ Boom. Instant clarity.
 
 ---
 
-### **We Build With You—Like Co-Op Mode, Not Single Player**  
+### **We Understand You Can't Go It Alone**  
 We don’t swoop in, drop some jargon, and disappear. We **work alongside your team** to co-create solutions that are grounded in your actual needs*.  
 
 **Example:** Designing a new workflow? We prototype, test with your team, fix what doesn’t work, and level up together until it feels just right.  
@@ -80,7 +79,7 @@ We don’t just observe people—we partner with businesses, organizations, and 
 
 By focusing on **actual human behavior**, cultural dynamics, and collaborative design, applied anthropologists uncover insights that lead to smarter, more effective, and more sustainable outcomes.
 
-##### Ready to hit “Start” on your next human-centered project? Let’s talk.
+##### Ready to see which path is right for the next step in your journey? Let’s talk.
 
 <div class="d-grid gap-2 col-6 mx-auto">
 <a class="btn btn-warning" href="{{ '/contact/#lets-make-it-happen' | relative_link }}" target="_blank">
