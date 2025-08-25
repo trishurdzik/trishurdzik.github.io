@@ -87,15 +87,15 @@ a.contents-list-anchor {
   font-style: bold;
 }
 
-h1, h2 {
-  font-family: "Babylonica", serif;
+h1 {
+  font-family: "Lugrasimo", cursive;
   font-size: xx-large !important; 
   font-weight: 600;
   font-style: bold;
 }
 
-h3, h4 {
-  font-family: "Homenaje", serif;
+h2 {
+  font-family: "Lora", serif;
   font-weight: 400;
   font-style: normal;  
 }
@@ -109,6 +109,19 @@ h3, h4 {
 h5, h6 {
   font-family: "Tulpin One", serif;
   font-weight: 600;
+  font-style: normal;
+}
+
+.lugrasimo-regular {
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lora-<uniquifier> {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
 }
 
